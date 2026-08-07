@@ -10,6 +10,12 @@ Follow these rules on every task.
 - `daily/`   — one file per day (`YYYY-MM-DD.md`) for daily current-affairs notes.
 - `index.md` — top-level map of all topic notes.
 
+## Reference material
+- `sources/syllabus/prelims/paper1.md`, `paper2.md` and
+  `sources/syllabus/mains/essay.md`, `GS1.md`–`GS4.md` — official UPSC Civil
+  Services Examination syllabus, one file per paper, extracted from a source
+  PDF. Use these to check GS paper relevance when tagging or organizing notes.
+
 ## Edit rules (important — follow strictly)
 - Never delete a file. If something looks obsolete, ask me first.
 - Never edit files in `notes/` directly unless I explicitly say "edit the note in
