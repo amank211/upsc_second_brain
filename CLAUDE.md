@@ -100,6 +100,23 @@ Follow these rules on every task.
 - Periodically (when I ask), review recent daily notes and suggest which
   content should be merged into permanent topic notes in `notes/`.
 
+## Memory
+- For this project, store and retrieve persistent memory (feedback, project
+  state, decisions worth remembering across sessions) in `.claude/memory/`
+  inside this repo — **not** the global `~/.claude/projects/.../memory/`
+  location. This keeps memory versioned and visible alongside the vault
+  content itself.
+- `.claude/memory/MEMORY.md` is the index; individual memory files sit
+  alongside it, same format as the standard auto-memory system (frontmatter
+  with `name`, `description`, `metadata.type`, linked via `[[name]]`).
+- At the start of a session (or when memory seems relevant), read
+  `.claude/memory/MEMORY.md` and follow up on relevant entries there, the
+  same way you would with global auto-memory.
+- When something is worth remembering (explicit "remember this", a
+  correction, a validated approach, notable project state), write it into
+  `.claude/memory/` following the same type conventions (user/feedback/
+  project/reference) as global auto-memory, rather than the global location.
+
 ## Git
 - After a study session, if I ask you to save progress, stage and commit
   with a short, descriptive message. Don't commit automatically otherwise.

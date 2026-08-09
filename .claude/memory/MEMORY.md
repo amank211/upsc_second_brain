@@ -1,0 +1,4 @@
+- [Quotes workflow](feedback_quotes_workflow.md) — ask before adding a spotted quote to drafts/essay/quotes.md
+- [Social Justice draft state](project_social_justice_draft_state.md) — huge note mid-build in drafts/, unpromoted, has unresolved data conflicts
+- [Pasted content handling](feedback_pasted_content_handling.md) — untangle interleaved PDF text, silently drop "Student Notes:" artifacts
+- [Diagram tooling limits](feedback_diagram_tooling.md) — Mermaid can't do circular layouts; prefer plain lists for cyclic diagrams

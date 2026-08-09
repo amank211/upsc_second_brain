@@ -34,3 +34,38 @@
 <i>"The caste system is like an elevator that stopped working centuries ago - some are trapped in the basement while others enjoy the penthouse."</i><br>
 — Dr. B.R. Ambedkar <span style="color:#6b6b6b;">(Reservation policy debates)</span>
 </div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:16px;">Scheduled Tribes</h3>
+
+<div style="background-color:#eddfc4; border-left:4px solid #c0392b; padding:10px 14px; margin-bottom:8px; border-radius:4px; width:100%; box-sizing:border-box;">
+<i>"The land does not belong to us; we belong to the land."</i><br>
+— Gond proverb <span style="color:#6b6b6b;">(Tribal Wisdom)</span>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:16px;">OBC</h3>
+
+<div style="background-color:#eddfc4; border-left:4px solid #c0392b; padding:10px 14px; margin-bottom:8px; border-radius:4px; width:100%; box-sizing:border-box;">
+<i>"An OBC student doesn't need lowered cutoffs - she needs the childhood nutrition you had."</i><br>
+— Savitribai Phule Study Circle pamphlet
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:16px;">Minorities</h3>
+
+<div style="background-color:#eddfc4; border-left:4px solid #c0392b; padding:10px 14px; margin-bottom:8px; border-radius:4px; width:100%; box-sizing:border-box;">
+<i>"The essence of democracy is minority protection."</i><br>
+— Gandhian Insight
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:16px;">PwDs</h3>
+
+<div style="background-color:#eddfc4; border-left:4px solid #c0392b; padding:10px 14px; margin-bottom:8px; border-radius:4px; width:100%; box-sizing:border-box;">
+<i>"Disability is a matter of perception."</i><br>
+— Sudha Chandran <span style="color:#6b6b6b;">(Indian classical dancer with prosthetic leg)</span>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:16px;">Transgender</h3>
+
+<div style="background-color:#eddfc4; border-left:4px solid #c0392b; padding:10px 14px; margin-bottom:8px; border-radius:4px; width:100%; box-sizing:border-box;">
+<i>"I don't want to be tolerated; I want to be celebrated."</i><br>
+— Laxmi Narayan Tripathi
+</div>
