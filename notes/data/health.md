@@ -112,6 +112,13 @@
 <p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
 </div>
 
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">ASHA Workers</div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">9 lakh+</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">Over 9 lakh Accredited Social Health Activists (ASHAs) serve across India, including urban areas under the National Urban Health Mission (NUHM).</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
 </div>
 
 <p style="font-size:1.1em; color:#6b6b6b; margin:24px 0 10px 0; font-weight:800; text-transform:uppercase; letter-spacing:1px;">Health Expenditure — Cross-Country Comparison</p>
@@ -192,6 +199,41 @@
 
 </div>
 
+<p style="font-size:1.1em; color:#6b6b6b; margin:24px 0 10px 0; font-weight:800; text-transform:uppercase; letter-spacing:1px;">Health Insurance</p>
+<div style="display:flex; flex-direction:column; gap:12px;">
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Population Covered by Health Insurance <span style="font-weight:400; color:#999999; font-size:0.8em;">(2023, est.)</span></div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">40%</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">By 2023, an estimated 40% of India's population was covered by health insurance, with coverage projected to reach 50% by 2025, driven largely by Ayushman Bharat–PMJAY.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session). Note: appears to conflict with the "Population Without Health Insurance" figure above (&gt;80% uninsured, FICCI 2022) — not reconciled, likely different survey years/methodologies.</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Ayushman Bharat–PMJAY Coverage</div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">55 crore+</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">Ayushman Bharat–PMJAY now covers over 55 crore people. Originally targeted at the poorest 40% of the population, coverage has since been extended to all citizens aged 70 and above.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">OOPE Share of Total Health Expenditure <span style="font-weight:400; color:#999999; font-size:0.8em;">(2014–15 to 2021–22)</span></div>
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+<tr>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">2014–15</td>
+<td style="padding:2px 0; color:#999999; font-size:0.78em;">2021–22</td>
+</tr>
+<tr>
+<td style="padding:0 8px 0 0; font-size:1.15em; font-weight:bold; color:#c0392b;">62.6%</td>
+<td style="padding:0; font-size:1.15em; font-weight:bold; color:#2c7a6b;">47.1%</td>
+</tr>
+</table>
+<p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">OOPE as a share of total health expenditure fell from 62.6% (2014–15) to 47.1% (2021–22), though it remains among the highest globally, exposing millions to medical impoverishment.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session). Note: differs from the World Bank-cited OOPE figures above (64% in 2013 → 39% in 2021) — not reconciled, likely different data source/methodology (National Health Accounts vs. World Bank estimate).</p>
+</div>
+
+</div>
+
 <p style="font-size:1.1em; color:#6b6b6b; margin:24px 0 10px 0; font-weight:800; text-transform:uppercase; letter-spacing:1px;">Infrastructure &amp; Workforce</p>
 <div style="display:flex; flex-direction:column; gap:12px;">
 
@@ -226,7 +268,7 @@
 </tr>
 </table>
 <p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">India faces a shortage of over 8 lakh doctors and 24 lakh nurses, despite technically meeting the WHO's recommended doctor-population ratio.</p>
-<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: NITI Aayog, 2021, as cited (not independently verified this session)</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: [[NITI Aayog Report 2021]] (not independently verified this session)</p>
 </div>
 
 </div>
@@ -402,6 +444,322 @@
 <div style="font-size:1.6em; font-weight:bold; color:#d68910; margin-top:4px;">119–124 million</div>
 <p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">Between 119 and 124 million people were pushed into extreme poverty globally in 2020.</p>
 <p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+</div>
+
+<p style="font-size:1.1em; color:#6b6b6b; margin:24px 0 10px 0; font-weight:800; text-transform:uppercase; letter-spacing:1px;">Healthcare Workforce Reform (2014–2024)</p>
+<div style="display:flex; flex-direction:column; gap:12px;">
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Healthcare Workforce Size &amp; Composition <span style="font-weight:400; color:#999999; font-size:0.8em;">(2024)</span></div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">~1 crore</div>
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+<tr>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">Doctors</td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">AYUSH Practitioners</td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">Nurses</td>
+<td style="padding:2px 0; color:#999999; font-size:0.78em;">Pharmacists</td>
+</tr>
+<tr>
+<td style="padding:0 8px 0 0; font-size:1.1em; font-weight:bold; color:#2c7a6b;">13.9 lakh</td>
+<td style="padding:0 8px 0 0; font-size:1.1em; font-weight:bold; color:#2c7a6b;">7.5 lakh</td>
+<td style="padding:0 8px 0 0; font-size:1.1em; font-weight:bold; color:#2c7a6b;">39.4 lakh</td>
+<td style="padding:0; font-size:1.1em; font-weight:bold; color:#2c7a6b;">17.6 lakh</td>
+</tr>
+</table>
+<p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">India's healthcare workforce has grown to nearly 1 crore, with nurses forming the largest segment (39.4 lakh). The doctor-population ratio now meets the WHO norm of 1:1000.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Medical Colleges <span style="font-weight:400; color:#999999; font-size:0.8em;">(2014 vs. 2024)</span></div>
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+<tr>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">2014</td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">2024</td>
+<td style="padding:2px 0; color:#999999; font-size:0.78em;">Increase</td>
+</tr>
+<tr>
+<td style="padding:0 8px 0 0; font-size:1.15em; font-weight:bold; color:#555555;">387</td>
+<td style="padding:0 8px 0 0; font-size:1.15em; font-weight:bold; color:#2c7a6b;">780</td>
+<td style="padding:0; font-size:1.15em; font-weight:bold; color:#2c7a6b;">+102%</td>
+</tr>
+</table>
+<p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">The number of medical colleges more than doubled over the decade, from 387 in 2014 to 780 in 2024.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">MBBS &amp; PG Seat Expansion <span style="font-weight:400; color:#999999; font-size:0.8em;">(2014 vs. 2024)</span></div>
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+<tr>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;"></td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">2014</td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">2024</td>
+<td style="padding:2px 0; color:#999999; font-size:0.78em;">Increase</td>
+</tr>
+<tr>
+<td style="padding:4px 8px 4px 0; font-size:0.95em;">MBBS seats</td>
+<td style="padding:4px 8px 4px 0; font-size:1.05em; font-weight:bold; color:#555555;">51,000</td>
+<td style="padding:4px 8px 4px 0; font-size:1.05em; font-weight:bold; color:#2c7a6b;">1.18 lakh</td>
+<td style="padding:4px 0; font-size:1.05em; font-weight:bold; color:#2c7a6b;">+130%</td>
+</tr>
+<tr>
+<td style="padding:4px 8px 4px 0; font-size:0.95em;">PG seats</td>
+<td style="padding:4px 8px 4px 0; font-size:1.05em; font-weight:bold; color:#555555;">32,000</td>
+<td style="padding:4px 8px 4px 0; font-size:1.05em; font-weight:bold; color:#2c7a6b;">74,000</td>
+<td style="padding:4px 0; font-size:1.05em; font-weight:bold; color:#2c7a6b;">+135%</td>
+</tr>
+</table>
+<p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">Both undergraduate (MBBS) and postgraduate medical seats have expanded substantially over the decade.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Nursing Education Expansion</div>
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+<tr>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;"></td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">Institutions</td>
+<td style="padding:2px 0; color:#999999; font-size:0.78em;">Seats</td>
+</tr>
+<tr>
+<td style="padding:4px 8px 4px 0; font-size:0.95em;">B.Sc. Nursing</td>
+<td style="padding:4px 8px 4px 0; font-size:1.05em; font-weight:bold; color:#2c7a6b;">+45%</td>
+<td style="padding:4px 0; font-size:1.05em; font-weight:bold; color:#2c7a6b;">+53%</td>
+</tr>
+<tr>
+<td style="padding:4px 8px 4px 0; font-size:0.95em;">M.Sc. Nursing</td>
+<td style="padding:4px 8px 4px 0; font-size:1.05em; font-weight:bold; color:#2c7a6b;">+29%</td>
+<td style="padding:4px 0; font-size:1.05em; font-weight:bold; color:#2c7a6b;">+39%</td>
+</tr>
+</table>
+<p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">Both B.Sc. and M.Sc. Nursing institutions and seat capacity have grown significantly, supporting the expansion of India's largest healthcare workforce segment.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Community Health Officers (CHOs) Deployed <span style="font-weight:400; color:#999999; font-size:0.8em;">(since 2018)</span></div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">1.25 lakh+</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">Over 1.25 lakh CHOs have been deployed at Ayushman Arogya Mandirs since 2018, delivering primary care, elderly care, and NCD services.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Doctors Facing Violence</div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">75%</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">75% of doctors in India report facing violence, attributed to low patient satisfaction, poor doctor-patient communication, and inadequate security.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+</div>
+
+<p style="font-size:1.1em; color:#6b6b6b; margin:24px 0 10px 0; font-weight:800; text-transform:uppercase; letter-spacing:1px;">ABDM Achievements</p>
+<div style="display:flex; flex-direction:column; gap:12px;">
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Digital Health IDs &amp; Records</div>
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+<tr>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">ABHA Accounts Generated</td>
+<td style="padding:2px 0; color:#999999; font-size:0.78em;">Health Records Linked</td>
+</tr>
+<tr>
+<td style="padding:0 8px 0 0; font-size:1.15em; font-weight:bold; color:#2c7a6b;">67 crore</td>
+<td style="padding:0; font-size:1.15em; font-weight:bold; color:#2c7a6b;">42 crore</td>
+</tr>
+</table>
+<p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">ABDM has generated 67 crore Ayushman Bharat Health Accounts (ABHA) and linked 42 crore health records.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Healthcare Facility Integration</div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">1.3 lakh+</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">ABDM has integrated over 1.3 lakh healthcare facilities, including 17,000 private centers.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Private Sector Participation</div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">236+</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">More than 236 private entities — comprising laboratories, pharmacies, and digital solution companies — have joined the ABDM ecosystem.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Digital Health Incentive Scheme (DHIS) Cap</div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">₹4 crore</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">DHIS offers financial incentives of up to ₹4 crore to boost digital health adoption widely.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+</div>
+
+<p style="font-size:1.1em; color:#6b6b6b; margin:24px 0 10px 0; font-weight:800; text-transform:uppercase; letter-spacing:1px;">Digital Health Challenges</p>
+<div style="display:flex; flex-direction:column; gap:12px;">
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Healthcare Institutions with Poor Data Connectivity</div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">~30%</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">The National Health Authority (NHA) reports that nearly 30% of healthcare institutions in India suffer from poor data connectivity, an equity and access barrier to digital health adoption.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: NHA, as cited (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">AIIMS Cyber-Attack <span style="font-weight:400; color:#999999; font-size:0.8em;">(November 2022)</span></div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">~4 crore patients</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">A cyber-attack on AIIMS Delhi in November 2022 caused server downtime, disrupted the outpatient department (OPD), and withheld sensitive data of around 4 crore patients — illustrating the privacy and security risks of digitized health records.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+</div>
+
+<p style="font-size:1.1em; color:#6b6b6b; margin:24px 0 10px 0; font-weight:800; text-transform:uppercase; letter-spacing:1px;">Telemedicine — eSanjeevani</p>
+<div style="display:flex; flex-direction:column; gap:12px;">
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">AB-HWCs Connected via eSanjeevani AB-HWC</div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">1,00,000+</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">The eSanjeevani AB-HWC variant connects over 1,00,000 Ayushman Bharat Health and Wellness Centres with district hospitals, enabling teleconsultations under a hub-and-spoke model (launched 2022).</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">eSanjeevani OPD Consultations</div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">22 crore+</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">The eSanjeevani OPD platform has facilitated over 22 crore consultations, marking a significant step in digital healthcare delivery.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+</div>
+
+<p style="font-size:1.1em; color:#6b6b6b; margin:24px 0 10px 0; font-weight:800; text-transform:uppercase; letter-spacing:1px;">Medical Tourism</p>
+<div style="display:flex; flex-direction:column; gap:12px;">
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Medical Tourism Contribution to Economy <span style="font-weight:400; color:#999999; font-size:0.8em;">(2023)</span></div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">USD 9 billion</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">Medical tourism contributed USD 9 billion to India's economy in 2023 and is projected to grow further.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Cancer Treatment Cost vs. Other Countries</div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">65–90% cheaper</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">Cancer treatments in India are 65–90% cheaper compared to the US, Europe, Australia, or Singapore.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Nurses-Training Capacity</div>
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+<tr>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">Recognized Training Centers</td>
+<td style="padding:2px 0; color:#999999; font-size:0.78em;">Nurses Graduating Annually</td>
+</tr>
+<tr>
+<td style="padding:0 8px 0 0; font-size:1.15em; font-weight:bold; color:#2c7a6b;">1,000</td>
+<td style="padding:0; font-size:1.15em; font-weight:bold; color:#2c7a6b;">10,000</td>
+</tr>
+</table>
+<p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">India has 1,000 recognized nurses-training centers, graduating 10,000 nurses annually.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #2c7a6b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Range of Medical Services Offered</div>
+<div style="font-size:1.6em; font-weight:bold; color:#2c7a6b; margin-top:4px;">200+</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">India offers over 200 types of medical services, from fertility treatments to skincare, as part of its Medical Value Travel (MVT) offering.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session)</p>
+</div>
+
+</div>
+
+<p style="font-size:1.1em; color:#6b6b6b; margin:24px 0 10px 0; font-weight:800; text-transform:uppercase; letter-spacing:1px;">Global Hunger Index (GHI)</p>
+<div style="display:flex; flex-direction:column; gap:12px;">
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">India's GHI Rank &amp; Score <span style="font-weight:400; color:#999999; font-size:0.8em;">(2024)</span></div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">105th of 127 — score 27.3</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">India ranks 105th of 127 countries with sufficient data in the 2024 Global Hunger Index, with a score of 27.3 — categorized as "serious" (20.0–34.9 band).</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: Global Hunger Index 2024, as cited (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">India's GHI Rank &amp; Score <span style="font-weight:400; color:#999999; font-size:0.8em;">(2023)</span></div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">111th of 125</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">In the 2023 Global Hunger Index, India ranked 111th of 125 countries, also in the "serious" hunger category. India held the highest global rate of child wasting (18.7%) in this edition.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: Global Hunger Index 2023, as cited (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">GHI Score Trend for India</div>
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+<tr>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">2000</td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">2008</td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">2016</td>
+<td style="padding:2px 0; color:#999999; font-size:0.78em;">2024</td>
+</tr>
+<tr>
+<td style="padding:0 8px 0 0; font-size:1.1em; font-weight:bold; color:#c0392b;">38.4</td>
+<td style="padding:0 8px 0 0; font-size:1.1em; font-weight:bold; color:#c0392b;">35.2</td>
+<td style="padding:0 8px 0 0; font-size:1.1em; font-weight:bold; color:#c0392b;">29.3</td>
+<td style="padding:0; font-size:1.1em; font-weight:bold; color:#c0392b;">27.3</td>
+</tr>
+</table>
+<p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">India's GHI score has improved steadily from 38.4 in 2000 to 27.3 in 2024, moving from "alarming" toward the lower end of "serious."</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: Global Hunger Index 2024, as cited (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">India's GHI Component Indicators <span style="font-weight:400; color:#999999; font-size:0.8em;">(2024)</span></div>
+<table style="width:100%; border-collapse:collapse; margin-top:8px;">
+<tr>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">Undernourished</td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">Child Stunting</td>
+<td style="padding:2px 8px 2px 0; color:#999999; font-size:0.78em;">Child Wasting</td>
+<td style="padding:2px 0; color:#999999; font-size:0.78em;">Child Mortality (under-5)</td>
+</tr>
+<tr>
+<td style="padding:0 8px 0 0; font-size:1.05em; font-weight:bold; color:#c0392b;">13.7%</td>
+<td style="padding:0 8px 0 0; font-size:1.05em; font-weight:bold; color:#c0392b;">35.5%</td>
+<td style="padding:0 8px 0 0; font-size:1.05em; font-weight:bold; color:#c0392b;">18.7%</td>
+<td style="padding:0; font-size:1.05em; font-weight:bold; color:#c0392b;">2.9%</td>
+</tr>
+</table>
+<p style="font-size:0.88em; color:#555555; margin:8px 0 0 0;">India's 2024 GHI score is built from four component indicators: undernourishment (13.7% of population), child stunting (35.5%), child wasting (18.7%), and under-five child mortality (2.9%).</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: Global Hunger Index 2024, as cited (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Child Stunting Due to Poverty</div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">31.4%</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">31.4% of children in India are cited as stunted due to chronic malnutrition caused by poverty.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: as provided (not independently verified this session). Note: conflicts with the 35.5% child stunting figure in the GHI 2024 card above — not reconciled, likely different sources/years.</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Population Below Poverty Line</div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">22%</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">The World Bank estimates that 22% of India's population lives below the poverty line, limiting their access to nutritious food.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: World Bank, as cited (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">Annual Food Wastage</div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">~40%</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">According to the FAO, about 40% of India's food production is wasted annually.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: FAO, as cited (not independently verified this session)</p>
+</div>
+
+<div style="background-color:#ffffff; border:1px solid #e2e2e2; border-top:4px solid #c0392b; border-radius:8px; padding:14px;">
+<div style="font-weight:600; font-size:1.05em;">PDS Food Grain Leakage in Bihar <span style="font-weight:400; color:#999999; font-size:0.8em;">(CAG, 2018)</span></div>
+<div style="font-size:1.6em; font-weight:bold; color:#c0392b; margin-top:4px;">30–40%</div>
+<p style="font-size:0.88em; color:#555555; margin:6px 0 0 0;">A 2018 CAG report found that 30–40% of food grains allocated for the Public Distribution System (PDS) in Bihar were lost due to leakage and mismanagement.</p>
+<p style="font-size:0.72em; color:#aaaaaa; margin:8px 0 0 0; font-style:italic;">Source: CAG, 2018, as cited (not independently verified this session)</p>
 </div>
 
 </div>

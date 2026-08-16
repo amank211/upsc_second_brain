@@ -477,7 +477,7 @@
 
 <p style="margin:10px 0 2px 0;"><b>Education</b></p>
 <ul style="margin:2px 0 0 0; padding-left:20px;">
-<li><b>Shala Praveshotsav:</b> Gujarat's annual school enrollment drive has reduced dropout rates from 35% in 2003.</li>
+<li><b>Shala Praveshotsav:</b> Gujarat's annual school enrollment drive has reduced dropout rates from 35% in 2003 to just 0.85% in 2024, enrolling children in kindergarten and Classes 1, 9, and 11.</li>
 <li><b>Thalliki Vandanam Scheme:</b> Andhra Pradesh's initiative provides ₹13,000 per student to mothers of 42.69 lakh school-going children, aiming to support education costs and reduce dropout rates.</li>
 </ul>
 
@@ -2890,4 +2890,2679 @@
 <li><b>Top Risks:</b> Undernutrition, air pollution, unhealthy diet, high blood pressure, and obesity are leading risk factors.</li>
 <li>Wealthier states transitioned to NCDs earlier, while poorer states still struggle with infectious diseases.</li>
 </ul>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">1.5. Key Government Schemes &amp; Missions on Healthcare</h3>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.5.1. National Health Policy (2017)</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Overview</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>The National Health Policy (NHP) 2017 emphasizes Universal Health Coverage (UHC), prioritizing primary healthcare, prevention, and health promotion.</li>
+</ul>
+</div>
+
+<div style="text-align:center; margin-top:16px;">
+<img src="../../images/national-health-policy-2017.png" alt="National Health Policy 2017 — Context, Goals, Key Principles and Objectives" style="max-width:75%; border-radius:6px;">
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;"><b>Context</b></p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Reducing Infant Mortality Rate (IMR) and Maternal Mortality Ratio (MMR).</li>
+<li>Increasing rates of Non-Communicable Diseases (NCDs).</li>
+<li>Emergence of a robust healthcare industry, estimated to be growing at double digits.</li>
+<li>Growing incidence of catastrophic expenditure due to healthcare costs.</li>
+<li>Rising economic growth enabling enhanced fiscal capacity.</li>
+</ul>
+
+<p style="margin:14px 0 2px 0;"><b>Goals</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Attainment of the highest possible level of health and well-being for all, at all ages, through a preventive and promotive health care orientation in all developmental policies.</li>
+<li>Universal access to good quality health care services without anyone having to face financial hardship as a consequence.</li>
+</ul>
+
+<p style="margin:14px 0 2px 0;"><b>Key Principles</b></p>
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+<td style="vertical-align:top; width:50%; padding-right:10px;">
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Professionalism, Integrity and Ethics</li>
+<li>Universality</li>
+<li>Equity</li>
+<li>Patient Centered &amp; Quality of Care</li>
+<li>Accountability</li>
+</ul>
+</td>
+<td style="vertical-align:top; width:50%;">
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Affordability</li>
+<li>Inclusive Partnerships</li>
+<li>Pluralism</li>
+<li>Decentralization</li>
+<li>Dynamism and Adaptiveness</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<p style="margin:14px 0 2px 0;"><b>Objectives</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Progressively achieve Universal Health Coverage (UHC).</li>
+<li>Reinforce trust in the Public Health Care System.</li>
+<li>Align growth of the private health care sector with public health goals.</li>
+</ul>
+
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">Source: National Health Policy 2017, Ministry of Health &amp; Family Welfare.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.5.2. Ayushman Bharat</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Overview</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Ayushman Bharat is a flagship health initiative launched by the Government of India in 2018, aimed at achieving Universal Health Coverage (UHC) and providing comprehensive healthcare services to all citizens.</li>
+<li>It aims to reduce the financial burden of healthcare and ensure affordable, accessible services for the population, with a strong focus on wellness.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Components of Ayushman Bharat</b>
+
+<p style="margin:10px 0 2px 0;"><b>Health and Wellness Centres (HWCs)</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Also known as Ayushman Arogya Mandirs (AAMs), these centers are designed to bring healthcare closer to people's homes.</li>
+<li>The goal is to establish 1.5 lakh centers, offering primary healthcare services.</li>
+</ul>
+
+<p style="margin:14px 0 2px 0;"><b>Pradhan Mantri Jan Arogya Yojana (PMJAY)</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>A comprehensive health insurance scheme targeting over 10 crore poor and vulnerable families, providing ₹5 lakh per family for secondary and tertiary care hospitalization.</li>
+<li><b>Key features:</b>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Coverage of pre-existing diseases from the day of enrollment.</li>
+<li>Cashless and paperless services at empanelled hospitals across India.</li>
+<li>Portability across the country, allowing beneficiaries to access services anywhere.</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Achievements of AB PM-JAY</b>
+<table style="width:100%; border-collapse:separate; border-spacing:8px 0; margin-top:10px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:25%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:230px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:4px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">IMPROVED HEALTHCARE ACCESSIBILITY</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li style="margin-bottom:4px;">Over 35.4 crore Ayushman cards issued</li>
+<li style="margin-bottom:4px;">Successfully empanelled 30,529 hospitals (17,063 public and 13,466 private)</li>
+<li>7.79 crore hospital admissions authorised</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:25%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0ddc0; border-radius:8px; overflow:hidden; height:230px; display:flex; flex-direction:column;">
+<div style="background-color:#d68910; color:#ffffff; font-weight:700; text-align:center; padding:4px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">REDUCTION IN HEALTHCARE BURDEN</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li style="margin-bottom:4px;">21% reduction in out-of-pocket (OoP) healthcare expenditures</li>
+<li>8% decrease in the incidence of emergency loans taken for health-related expenses</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:25%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #e2cfe0; border-radius:8px; overflow:hidden; height:230px; display:flex; flex-direction:column;">
+<div style="background-color:#8e44ad; color:#ffffff; font-weight:700; text-align:center; padding:4px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">GENDER EQUITY IN HEALTHCARE</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li style="margin-bottom:4px;">49% of Ayushman cards issued to women</li>
+<li>3.61 crore hospital admissions utilised by women</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:25%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #c8d6dd; border-radius:8px; overflow:hidden; height:230px; display:flex; flex-direction:column;">
+<div style="background-color:#4a6b7c; color:#ffffff; font-weight:700; text-align:center; padding:4px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">PROMOTING HEALTHCARE INFRASTRUCTURE</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li style="margin-bottom:4px;">District hospitals have experienced an annual net benefit of $26.1 million</li>
+<li>This financial boost enhances the capacity of hospitals to serve their communities effectively</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Challenges</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Inaccurate beneficiary databases, with over 50% of grievances linked to registration issues.</li>
+<li>Narrow coverage excludes outpatient and elderly care.</li>
+<li>Infrastructure gaps in rural areas limit access.</li>
+<li>Variable care quality and budget shortfalls further hinder its effectiveness.</li>
+</ul>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Way Forward</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Ensure physical verification of hospitals and timely payments, backed by strong anti-fraud measures.</li>
+<li>Establish district grievance units to resolve beneficiary issues faster.</li>
+<li>Design policies for long-term elderly care to close the scheme's current coverage gap.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.5.3. Health Insurance in India: Progress and Persistent Gaps</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Health insurance in India has grown significantly in recent years, emerging as a vital tool for financial protection against rising healthcare costs, with coverage expanding steadily and government schemes like Ayushman Bharat–PMJAY driving much of this growth.</p>
+<p style="margin:10px 0 0 0;">Yet, out-of-pocket expenditure (OOPE) continues to be among the highest globally, undermining the effectiveness of health insurance and exposing millions to medical impoverishment.</p>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[health]] (data folder) for coverage and OOPE figures.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Features of India's Health Insurance Ecosystem</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Ayushman Bharat–PMJAY:</b> Covers the poorest 40% of the population, recently extended to all citizens aged 70+.</li>
+<li><b>State-level schemes:</b> Telangana (Rajiv Aarogyasri), Tamil Nadu (CMCHIS), and others complement central coverage.</li>
+<li><b>Private sector participation:</b> Offers tax benefits (under Section 80D) and growing urban adoption.</li>
+<li><b>Digital push:</b> Ayushman Bharat Digital Mission aims to unify health records and improve service delivery.</li>
+</ul>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Challenges: Why Health Insurance Hasn't Reduced OOPE Enough</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>OOPE still high:</b> Despite growing coverage, OOPE still accounts for a large share of total health expenditure in India — see [[health]] (data folder) for figures.</li>
+<li><b>Exclusions:</b> Many plans don't cover outpatient care, diagnostics, or medicines — the main contributors to OOPE.</li>
+<li><b>Affordability barriers:</b> Premiums, co-payments, and lack of cashless services affect low-income households.</li>
+<li><b>Awareness and digital literacy:</b> Rural and underprivileged groups often remain unaware or unable to enrol.</li>
+<li><b>Claim process inefficiencies:</b> Delays, rejections, and opaque procedures erode public trust.</li>
+</ul>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Way Forward</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Expand coverage scope:</b> Include outpatient services, medicines, and preventive care under standard policies.</li>
+<li>Subsidize premiums for the poor and informal sector workers.</li>
+<li>Invest in public health infrastructure to reduce dependence on costly private providers.</li>
+<li>Regulate claim processes and ensure transparency and standardization in policy terms.</li>
+<li>Boost awareness through mass campaigns and local facilitation centers, especially in rural areas.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.9em; font-style:italic; color:#2c3e50;">Health insurance in India has made important strides but remains insufficiently protective due to design flaws, gaps in access, and persistent OOPE. To truly achieve Universal Health Coverage, India must reorient its insurance ecosystem toward inclusivity, affordability, and comprehensive care.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.5.4. National Medical Commission (NMC)</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Overview</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>The National Medical Commission (NMC) replaced the Medical Council of India (MCI) to regulate medical education and healthcare standards.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Functions of the NMC</b>
+<table style="width:100%; border-collapse:collapse; margin-top:10px;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Function</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Description</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Appellate Jurisdiction</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Reviews and decides appeals against Autonomous Board decisions.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">HR &amp; Infrastructure Assessment</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Evaluates and plans for medical workforce and facility needs.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Policy Framing</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Develops and enforces regulations for medical education and practice; frames policies for regulating medical institutions and professionals.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Fee Regulation</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Sets fee guidelines for up to 50% of seats in private and deemed medical universities.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">State Council Oversight</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Monitors and enforces State Medical Councils' adherence to national standards.</td>
+</tr>
+</table>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Challenges of NMC</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Lack of diverse stakeholders in decision-making, with limited representation from public health experts.</li>
+<li>Limited state involvement in decision-making, reducing local participation in health reforms.</li>
+<li>Focus on documentation rather than quality education.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.5.5. Human Resources for Health (HRH)</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Overview</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>India faces a critical shortage of healthcare professionals, particularly in rural areas.</li>
+<li>According to NITI Aayog's 2021 report, there is a deficit of over 8 lakh doctors and 24 lakh nurses.</li>
+<li>The imbalance is exacerbated by the concentration of professionals in urban centers, resulting in inadequate healthcare access in rural regions.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Efforts to Address These Gaps</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Expanding medical and nursing schools.</li>
+<li>Public-Private Partnerships (PPP) to strengthen healthcare delivery.</li>
+<li>Improved rural postings for medical professionals.</li>
+</ul>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Addressing Human Resource Issues with ASHA and Anganwadi Workers</b></p>
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:8px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Category</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">ASHAs (Accredited Social Health Activists)</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Anganwadi Workers</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Role</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Community health workers who serve as the first point of contact for rural populations.</li>
+<li>Focus on maternal health, immunization, and family planning.</li>
+</ul>
+</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Central to Early Childhood Care and Education (ECCE), providing nutrition and health services under the ICDS scheme.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Number</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Over 9 lakh ASHAs spanning both rural and urban India, including under the National Urban Health Mission (NUHM).</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Work in Anganwadi centers under ICDS, but no specific number is mentioned here.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Challenges</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Inadequate recognition and compensation.</li>
+<li>Heavy workload and insufficient training.</li>
+<li>Lack of safety and support mechanisms.</li>
+</ul>
+</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Shortage of trained workers.</li>
+<li>Lack of basic sanitation and play facilities.</li>
+<li>Limited resources for early childhood education and care.</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.5.6. Transforming India's Healthcare Workforce</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Over the last decade, India has undertaken major reforms to expand and strengthen its healthcare workforce. Key efforts have focused on increasing capacity, improving educational quality, and reducing rural–urban disparities.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Reform Areas</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Healthcare workforce size has grown to nearly 1 crore, including:
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>13.9 lakh doctors, 7.5 lakh AYUSH practitioners,</li>
+<li>39.4 lakh nurses (largest segment), and 17.6 lakh pharmacists.</li>
+<li>The doctor-population ratio now meets the WHO norm of 1:1000.</li>
+</ul>
+</li>
+<li>Medical and nursing education expansion:
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Medical colleges increased from 387 (2014) to 780 (2024) — a 102% rise.</li>
+<li>MBBS seats grew from 51,000 to 1.18 lakh (130% increase).</li>
+<li>PG seats expanded from 32,000 to 74,000 (135% increase).</li>
+<li>B.Sc. Nursing institutions grew by 45%, with a 53% rise in seats.</li>
+<li>M.Sc. Nursing saw a 29% increase in institutions and 39% in seats.</li>
+</ul>
+</li>
+<li>Addressing rural disparities:
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>New medical colleges are set up in rural areas to improve access and train local health workers.</li>
+</ul>
+</li>
+<li>Innovative initiatives:
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Over 1.25 lakh Community Health Officers (CHOs) have deployed at Ayushman Arogya Mandirs since 2018 to deliver primary care, elderly care, and NCD services.</li>
+</ul>
+</li>
+<li>Regulatory reforms introduced:
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>New acts for medical, nursing, and dental education to improve transparency and standards.</li>
+</ul>
+</li>
+<li>Focus on quality:
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Implementation of Competency-Based Medical Education (CBME).</li>
+<li>Introduction of District Residency Program for PG students in public hospitals.</li>
+<li>Use of digital tools and simulation labs for training.</li>
+</ul>
+</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.9em; font-style:italic; color:#2c3e50;">India's decadal healthcare workforce reform has focused on capacity building, quality education, and rural outreach. Continued efforts are needed in specialty training and allied health professional development.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.5.7. Contemporary Issues: Violence Against Healthcare Workers</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;"><b>Prevalence:</b> Reports show that 75% of doctors in India face violence. The causes include low patient satisfaction, poor doctor-patient communication, and inadequate security.</p>
+<p style="margin:10px 0 0 0;"><b>Solutions:</b> The Epidemic Diseases (Amendment) Act, 2020 provides legal protection to healthcare workers during pandemics, with severe penalties for violence. A comprehensive law beyond epidemics is needed to ensure long-term protection for healthcare professionals.</p>
+</div>
+
+<div style="background-color:#f5efe0; border:1px solid #d8cfae; border-radius:8px; padding:16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">India's healthcare system faces multifaceted challenges related to financing, infrastructure, and human resources. To achieve Universal Health Coverage by 2030, India needs to increase public health expenditure, strengthen primary healthcare, and address mental health and NCDs effectively.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.5.8. Pandemic Preparedness and the 'One Health' Approach</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The COVID-19 pandemic highlighted the weaknesses in global health systems and vaccine inequities. The WHO's Global Pandemic Treaty aims to ensure equitable access to health products in future pandemics.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>The 'One Health' Approach</b>
+<p style="margin:8px 0 0 0;">The 'One Health' approach connects human health, animal health, and the environment.</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>Many diseases, like COVID-19, start in animals and spread to people.</li>
+<li>It aims to prevent zoonotic diseases and antibiotic resistance by encouraging collaboration across sectors.</li>
+<li>With 'One Health', doctors, veterinarians, and environmental experts work together to identify risks early.</li>
+</ul>
+<p style="margin:10px 0 0 0;">This teamwork improves surveillance, shares information, and stops diseases at their source. Clean water, safe food, and healthy animals help keep people safe.</p>
+<p style="margin:12px 0 0 0; font-size:0.9em; font-style:italic; color:#2c3e50;">In short, pandemic preparedness and 'One Health' make the world safer by addressing health threats wherever they begin.</p>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>KARMI-Bot: A COVID-Era Innovation</b>
+<p style="margin:8px 0 0 0;">Kerala's KARMI-Bot was initially developed to serve COVID-19 patients by delivering food and medicine. Its primary aim was to reduce healthcare workers' exposure and conserve PPE, highlighting robotics' potential in infection control during crises.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>WHO Pandemic Treaty: A Global Step for Future Preparedness</b>
+<p style="margin:8px 0 0 0;">The WHO Pandemic Treaty, adopted on 20 May 2025 at the 78th World Health Assembly, is a legally binding agreement to improve global pandemic prevention, preparedness, and response. This treaty is the first global effort to reduce pandemic risks, promoting transparency and cooperation to make the world safer and more equitable.</p>
+</div>
+
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px; width:50%;">Key Feature</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px; width:50%;">Challenge</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">Global Collaboration:</b> Encourages a whole-of-society approach to strengthen health systems and ensure fair access to vaccines and treatments.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#c0392b;">Lack of Enforcement:</b> Critics say the treaty lacks enforcement and funding mechanisms.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">Equity Focus:</b> Aims to address inequities seen during COVID-19, ensuring a fair distribution of resources.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#c0392b;">Deferred Issues:</b> Some issues, like vaccine inequity, will be addressed later.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">Legal Framework:</b> The treaty will take effect after 60 countries ratify it and an annex on Pathogen Access and Benefit-Sharing (PABS) is adopted.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#c0392b;">Political Concerns:</b> Some countries question the WHO's authority.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">Multilateral Commitment:</b> Dr. Tedros Adhanom Ghebreyesus called it a victory for public health and global cooperation.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"></td>
+</tr>
+</table>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">1.6. The Future of Health in India</h3>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">India aims to achieve Universal Health Coverage (UHC) for all by 2030, ensuring that every individual has access to affordable, appropriate, and accountable health services of assured quality. In this context, the digital space offers significant opportunities to strengthen service delivery, enhance access, and improve healthcare outcomes across the country.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.6.1. Digital Health Ecosystem</h4>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Digital Health integrates technology with healthcare delivery.</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li><b>Key Components:</b> Telemedicine, e-health records, robot-assisted surgeries, e-pharmacies, and e-insurance are reshaping patient care. The National Digital Health Mission (NDHM) aims to digitize healthcare across India.</li>
+</ul>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Advantages of Digital Health</b></p>
+<table style="width:100%; border-collapse:separate; border-spacing:6px; margin-top:8px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:290px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">EFFICIENT HEALTHCARE DELIVERY</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>EMRs reduce paperwork and errors. Providers can access and share patient information seamlessly.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0ddc0; border-radius:8px; overflow:hidden; height:290px; display:flex; flex-direction:column;">
+<div style="background-color:#d68910; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">EQUITY AND INCLUSION</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Improved access to healthcare, especially for remote areas. Telemedicine reduces travel and waiting times. Multilingual platforms cater to diverse populations.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #e2cfe0; border-radius:8px; overflow:hidden; height:290px; display:flex; flex-direction:column;">
+<div style="background-color:#8e44ad; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">QUALITY OF CARE</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Personalized, evidence-based care. Real-time data and decision support improve outcomes and safety.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #c8d6dd; border-radius:8px; overflow:hidden; height:290px; display:flex; flex-direction:column;">
+<div style="background-color:#4a6b7c; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">MEDICAL RESEARCH AND INNOVATION</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Digital health platforms enable large-scale data analysis. Supports clinical trials and new treatment development.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:290px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">COST SAVINGS</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Telemedicine lowers patient expenses. Digital health improves operational efficiency and resource allocation.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:290px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">PATIENT ENGAGEMENT AND EMPOWERMENT</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Access to health information and tools for self-management. Health apps and wearables track vital signs and progress.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+<p style="margin:20px 0 8px 0;"><b>India's Digital Health Initiatives</b></p>
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:8px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Initiative</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Description</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">SEHAT</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Teleconsultation service for armed forces families.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">ABDM</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Facilitates secure health record sharing with ABHA numbers.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Aarogya Setu</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Comprehensive health app for various health services.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">eSanjeevani</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Telemedicine service connecting patients and providers.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">COWIN</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Manages COVID-19 vaccination processes.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">e-Hospital</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Streamlines hospital workflows and patient services.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">e-BloodBank</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Automates blood bank management and donation.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">ORS</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Links hospitals for online appointments and services.</td>
+</tr>
+</table>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">National Digital Health Mission (NDHM)</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<ul style="margin:0; padding-left:20px;">
+<li><b>Purpose:</b> Digitize healthcare in India by connecting various stakeholders through digital platforms.</li>
+<li><b>Goals:</b> Improve efficiency, effectiveness, and transparency in health services, and help achieve health-related Sustainable Development Goals (SDGs).</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Other Initiatives</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>National Digital Health Blueprint (NDHB):</b> Plan for integrated and comprehensive digital health services.</li>
+<li><b>Support under National Health Mission (NHM):</b> Funding for services like telemedicine, tele-radiology, tele-oncology, tele-ophthalmology, and hospital information systems.</li>
+<li><b>National Health Stack by NITI Aayog:</b> A shared digital infrastructure for both central and state use, aiding in the rapid development of health solutions.</li>
+</ul>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>The NDHM Ecosystem</b>
+<p style="margin:8px 0 0 0;">Citizens &amp; Patients sit at the centre of the NDHM ecosystem, connected to six functional groups of stakeholders:</p>
+<table style="width:100%; border-collapse:separate; border-spacing:6px; margin-top:10px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:44px; display:flex; align-items:center; justify-content:center; font-size:0.75em; line-height:1.15;">POLICY MAKERS</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Central Government.</li>
+<li>State Governments.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0ddc0; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#d68910; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:44px; display:flex; align-items:center; justify-content:center; font-size:0.75em; line-height:1.15;">ADMINISTRATORS</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Program Managers.</li>
+<li>Regulators.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #e2cfe0; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#8e44ad; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:44px; display:flex; align-items:center; justify-content:center; font-size:0.75em; line-height:1.15;">PROVIDERS</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Hospitals.</li>
+<li>Clinics.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #c8d6dd; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#4a6b7c; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:44px; display:flex; align-items:center; justify-content:center; font-size:0.75em; line-height:1.15;">ALLIED PRIVATE ENTITIES</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Labs, Pharmacies &amp; Wellness Centers.</li>
+<li>TPAs &amp; Insurers.</li>
+<li>Health Tech Companies.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:44px; display:flex; align-items:center; justify-content:center; font-size:0.75em; line-height:1.15;">HEALTHCARE PROFESSIONALS</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Doctors (Modern Medicine, AYUSH).</li>
+<li>Other Practitioners.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:44px; display:flex; align-items:center; justify-content:center; font-size:0.75em; line-height:1.15;">NON-PROFIT ORGANIZATIONS</div>
+<ul style="margin:0; padding:10px 8px 10px 22px; font-size:0.8em; color:#333333; flex:1;">
+<li>Associations.</li>
+<li>Development Partners/NGOs.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">The Ayushman Bharat Digital Mission (ABDM)</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The Ayushman Bharat Digital Mission (ABDM) aims to connect digital health solutions across Indian hospitals, creating a unified ecosystem. This system facilitates digital consultations, patient consent, and ensures data privacy.</p>
+<p style="margin:10px 0 0 0;">ABDM's key principles include inclusivity, free registration, voluntary participation, and a single source of truth for medical records. The National Health Authority oversees its implementation under the Union Ministry of Health &amp; Family Welfare.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Components of ABDM Architecture</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Ayushman Bharat Health Account (ABHA) ID:</b> A unique 14-digit number to store and manage health records.</li>
+<li><b>Healthcare Professionals Registry (HPR):</b> A unified repository of healthcare professionals across all systems of medicine.</li>
+<li><b>Health Facility Registries (HFR):</b> Repository of health facilities of the nation (both public and private).</li>
+<li><b>Health Information Exchange and Consent Manager (HIE-CM):</b> To ensure that data exchange is driven by informed consent.</li>
+<li><b>Unified Health Interface (UHI):</b> To facilitate the discovery and delivery of health services.</li>
+<li><b>National Health Claims Exchange (HCX):</b> To standardize the insurance claims and payment ecosystem.</li>
+</ul>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Benefits for Citizens Registering in ABDM</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Paperless health records</b> – Accessible anytime, anywhere.</li>
+<li>Citizens will be able to <b>access healthcare digitally</b> (through teleconsultation) using apps integrated with ABDM.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>ABDM: Achievements</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Digital Health IDs and Records:</b> ABDM has generated 67 crore Ayushman Bharat Health Accounts (ABHA) and linked 42 crore health records.</li>
+<li><b>Healthcare facility integration:</b> The initiative has integrated over 1.3 lakh healthcare facilities, including 17,000 private centers.</li>
+<li><b>Private sector participation:</b> More than 236 private entities, comprising laboratories, pharmacies, and digital solution companies, have joined the ABDM ecosystem.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[health]] (data folder) for these figures.</p>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>ABDM: Key Initiatives</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>QR-based Outpatient Department (OPD):</b> Reduces waiting times, enhancing efficiency and accuracy.</li>
+<li><b>Digital Health Incentive Scheme (DHIS):</b> Financial incentives of up to ₹4 crore to boost digital health adoption widely.</li>
+<li><b>Microsites for Private Sector Adoption:</b> Aimed at addressing challenges in ABDM adoption.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Challenges of Digital Health Ecosystem</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+
+<p style="margin:0;"><b>1. Lack of Standardization in Digital Cards</b></p>
+<p style="margin:6px 0 0 0;">India struggles to standardize coverage and quality of existing digital health cards (e.g., ESIC card, PM-JAY card), leading to data migration and transfer issues.</p>
+
+<p style="margin:14px 0 0 0;"><b>2. Equity and Access Issues</b></p>
+<p style="margin:6px 0 0 0;">Unequal access to digital health technologies, digital literacy skills, etc., can exclude vulnerable populations, particularly in remote and rural areas.</p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>For example, the National Health Authority (NHA) reports that nearly 30% of healthcare institutions in India suffer from poor data connectivity.</li>
+</ul>
+
+<p style="margin:14px 0 0 0;"><b>3. Privacy and Security Issues</b></p>
+<p style="margin:6px 0 0 0;">Unauthorized data access and breaches can compromise patient privacy and lead to identity theft.</p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>For instance, in November 2022, AIIMS experienced a cyber-attack, causing server downtime, disrupting the outpatient department (OPD), and withholding sensitive data of around 4 crore patients.</li>
+</ul>
+
+<p style="margin:14px 0 0 0;"><b>4. Algorithmic Bias</b></p>
+<p style="margin:6px 0 0 0;">Technologies like AI can lead to unfair or discriminatory treatment, causing racial and ethnic disparities in healthcare.</p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>For example, AI in US health systems exhibited bias by prioritizing healthier white patients over sicker black patients for additional care, due to AI's training on cost data instead of care needs.</li>
+</ul>
+
+</div>
+
+<div style="background-color:#f5efe0; border:1px solid #d8cfae; border-radius:8px; padding:16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">India's digital healthcare infrastructure has great potential to improve accessibility and efficiency. With ongoing policy support (like cybersecurity frameworks), infrastructure development (such as BharatNet and Blockchain-based health records), public-private collaborations, and technological advancements, India's healthcare system is set to become a globally recognized model.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.6.2. Telemedicine: eSanjeevani</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;"><b>Potential:</b> Telemedicine, particularly platforms like eSanjeevani, offers remote consultations, expanding access to healthcare in rural areas.</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>eSanjeevani is India's national telemedicine platform offering both doctor-to-doctor and patient-to-doctor services.</li>
+<li>The eSanjeevani AB-HWC variant connects over 1,00,000 Ayushman Bharat Health and Wellness Centres with district hospitals, enabling teleconsultations.</li>
+<li>Launched in 2022, it supports hub-and-spoke models for rural care.</li>
+<li>The eSanjeevani OPD platform has facilitated over 22 crore consultations, marking a significant step in digital healthcare delivery.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;"><b>Hurdles:</b> The digital divide poses significant challenges. Issues include poor internet connectivity, lack of computerization in public health centers, and privacy concerns regarding digital health data.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.6.3. AI &amp; Robotics in Healthcare</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<ul style="margin:0; padding-left:20px;">
+<li><b>AI in Healthcare:</b> AI holds the potential to transform diagnostics and drug discovery, reducing human error and improving efficiency. However, concerns about the "black box" problem (lack of transparency in AI decision-making) and privacy remain.</li>
+<li><b>Robotics in Healthcare:</b> Robot-assisted surgeries offer precision, but remote surgery by AI remains a future possibility that requires significant infrastructure investment and regulatory frameworks.</li>
+<li><b>Ethical Concerns:</b> AI requires large amounts of personal data, raising concerns about data privacy and standardization. India needs a comprehensive regulatory framework for AI in healthcare to ensure ethical use.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Applications of AI &amp; Robotics in Healthcare</b>
+<table style="width:100%; border-collapse:separate; border-spacing:8px; margin-top:10px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:50%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">EARLY DETECTION AND DIAGNOSIS</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li>Mammogram Analysis.</li>
+<li>Heart Disease Monitoring.</li>
+<li>IBM Watson for Health.</li>
+<li>Google DeepMind Health.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:50%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #c8d6dd; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#4a6b7c; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">SURGICAL PROCEDURES AND AUTOMATION</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li>Surgical Robotics.</li>
+<li>Faster Rehabilitation and Therapy.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">1.6.4. Medical Tourism</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">India is a global hub for medical tourism, driven by its low-cost, high-quality care, and expertise in pharmaceuticals. It contributed USD 9 billion to India's economy in 2023 and is projected to grow further.</p>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[health]] (data folder) for this figure.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;"><b>Government Measures:</b> India has introduced Medical Visas and a centralized portal for booking services, but challenges remain in infrastructure, skills development, and policy coordination.</p>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Why India is a Preferred Medical Value Travel (MVT) Destination</b></p>
+<table style="width:100%; border-collapse:separate; border-spacing:6px; margin-top:8px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:270px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:48px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">INDIA'S TRADITIONAL MEDICINE</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Ayurveda, yoga, naturopathy, and other traditional systems promote wellness tourism.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0ddc0; border-radius:8px; overflow:hidden; height:270px; display:flex; flex-direction:column;">
+<div style="background-color:#d68910; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:48px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">CANCER TREATMENTS</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Cancer treatments in India are 65–90% cheaper compared to the US, Europe, Australia, or Singapore.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #e2cfe0; border-radius:8px; overflow:hidden; height:270px; display:flex; flex-direction:column;">
+<div style="background-color:#8e44ad; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:48px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">WELL TRAINED NURSES</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>India has 1,000 recognized nurses-training centers, graduating 10,000 nurses annually.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #c8d6dd; border-radius:8px; overflow:hidden; height:270px; display:flex; flex-direction:column;">
+<div style="background-color:#4a6b7c; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:48px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">LOW COST OF TREATMENT</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Treatment in India is significantly cheaper than in other countries.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:270px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:48px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">200 TYPES OF MEDICAL SERVICES</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>India offers over 200 types of medical services, from fertility treatments to skincare.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:270px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:48px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">TRAINED AND EXPERIENCED DOCTORS</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Indian doctors are known for their extensive experience compared to global peers.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0ddc0; border-radius:8px; overflow:hidden; height:270px; display:flex; flex-direction:column;">
+<div style="background-color:#d68910; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:48px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">OTHER BENEFITS</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Cost-effective healthcare services, quality diagnostic equipment, and English-fluent doctors.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Medical Tourism: Diplomacy &amp; Dilemmas</b>
+<p style="margin:8px 0 0 0;">India views medical tourism as a way to enhance its global reputation and build international partnerships by showcasing its healthcare strengths. This strategy attracts foreign patients seeking quality and affordable treatments.</p>
+<p style="margin:10px 0 0 0;">However, the challenge is to maintain a strong domestic healthcare infrastructure while ensuring equitable access to healthcare for all Indian citizens. The goal is to benefit from medical tourism without compromising the essential healthcare services needed for India's vast population.</p>
+</div>
+
+<h2 style="background-color:#2c3e50; color:#ffffff; padding:10px 16px; border-radius:6px; margin-top:20px;">2. Part B: Education</h2>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Education is a powerful instrument of social justice, enabling individuals to break cycles of poverty and exclusion. Rooted in India's civilizational values, it empowers minds to drive inclusive growth.</p>
+<p style="margin:10px 0 0 0;">Yet, persistent inequities and underfunding hinder progress toward SDG 4, which envisions equitable, quality education for all.</p>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">2.1. Education Financing: Budget Trends</h3>
+
+<div style="text-align:center; margin-top:16px;">
+<img src="../../images/education-budget-allocation-growth-2019-2026.png" alt="Education Budget Allocation and Growth (2019–2026)" style="max-width:85%; border-radius:6px;">
+</div>
+<p style="margin:8px 0 0 0; font-size:0.85em; color:#666666; text-align:center;">Education budget allocation has risen fairly steadily from 2019–20 to 2025–26, with a sharp dip in year-on-year growth in 2021–22 (COVID-19 disruption) followed by a strong rebound in 2022–23.</p>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">Constitutional and Legal Provisions on Education</h3>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The Indian Constitution underscores the importance of education, particularly for vulnerable sections of society, through various provisions:</p>
+</div>
+
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Article</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Provision</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Article 29</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Ensures equality of opportunity in educational institutions and protects the culture, language, and script of minorities.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Article 30</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Grants religious and linguistic minorities the right to establish and administer their own educational institutions.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Articles 15(3) &amp; 15(4)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Allow the state to make special provisions for the advancement of children and women, and for the admission of backward classes, SCs, or STs in private educational institutions.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Article 21A</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Guarantees free and compulsory education for all children aged 6 to 14 years as a fundamental right (inserted by the 86th Amendment Act, 2002).</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Articles 39(e) &amp; 39(f)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Directs the state to prevent the abuse of children at an early age and ensure they have the opportunities and resources to grow in a healthy and dignified environment.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Article 45</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Mandates the state to provide early childhood care and education for children up to the age of six years.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Article 46</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Emphasizes the promotion of educational and economic interests of the weaker sections, especially SCs and STs.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Article 51A(k)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">A fundamental duty for parents to ensure education for children aged 6 to 14 years.</td>
+</tr>
+</table>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Right to Education Act, 2009</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The Right of Children to Free and Compulsory Education (RTE) Act, 2009 came into effect on April 1, 2010, enforcing Article 21A as a fundamental right.</p>
+<ul style="margin:10px 0 0 0; padding-left:20px;">
+<li><b>Objective:</b> To ensure free and compulsory primary education for children aged 6 to 14 years.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Provisions</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>No child shall be held back, expelled, or required to pass a board examination until elementary education is completed.</li>
+<li>Prohibits physical punishment, mental harassment, screening procedures, and capitation fees.</li>
+<li>Mandates 25% reservation for economically disadvantaged children in private schools for Class I admissions.</li>
+<li>Establishes norms for student-teacher ratios, school buildings, and teacher working hours.</li>
+</ul>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;"><b>Limitations:</b> Critics argue it is input-oriented rather than outcome-focused, and does not emphasize quality of learning. It also originally excluded children aged 0–6 and 14–18.</p>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">Education System of India</h3>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Early Childhood Care and Education (ECCE)</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Early Childhood Care and Education (ECCE) encompasses the holistic development of children from birth to age eight, focusing on their physical, cognitive, social, and emotional growth. This critical period lays the foundation for lifelong learning and well-being.</p>
+<p style="margin:10px 0 0 0;">India has 158.7 million children in the 0–6 years age group (Census 2011), and catering to this important segment of the population to ensure holistic development is imperative.</p>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for this figure.</p>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Significance of ECCE</b></p>
+<table style="width:100%; border-collapse:separate; border-spacing:8px; margin-top:8px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:33.33%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">BREAKING INTERGENERATIONAL CYCLES</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li>ECCE helps break poverty and disadvantage cycles by giving children from marginalized communities a strong start in life.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:33.33%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #e2cfe0; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#8e44ad; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">BRAIN DEVELOPMENT</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li>Early years are crucial for brain development. Quality ECCE enhances cognitive abilities, language skills, and social-emotional competencies by stimulating neural connections.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:33.33%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0ddc0; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#d68910; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">LONG-TERM IMPACT</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li>Strong ECCE foundations lead to better school success, health outcomes, and active citizenship.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Challenges in ECCE</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Affordability and Accessibility:</b> High costs and geographical disparities, especially in rural and marginalized communities.</li>
+<li><b>Quality and Standards:</b> Focus on literacy and numeracy at the expense of holistic development (social-emotional learning, creativity, motor skills).</li>
+<li><b>Shortage of Centers and Trained Personnel:</b> Lack of qualified educators and training in child development.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">School Education</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">In India, formal school education commences after Early Childhood Care and Education (ECCE), which covers children aged 3 to 6 years. Following ECCE, the education system is structured into the 5+3+3+4 model as per the National Education Policy (NEP) 2020.</p>
+</div>
+
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Stage</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Ages</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Details</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Foundational Stage</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">3–8</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">3 years of preschool or Anganwadi followed by Classes 1 and 2. Focus on activity-based learning to develop cognitive and socio-emotional skills.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Preparatory Stage</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">8–11</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Classes 3 to 5 introduce subjects like languages, mathematics, science, and arts, aiming to build foundational literacy and numeracy.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Middle Stage</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">11–14</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Classes 6 to 8 delve into more abstract concepts in subjects such as mathematics, sciences, social sciences, arts, and humanities.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Secondary Stage</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">14–18</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Classes 9 to 12 focus on multidisciplinary study, critical thinking, and depth in chosen subjects. Board exams are conducted at the end of Classes 10 and 12.</td>
+</tr>
+</table>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Gross Enrolment Ratio (GER) by Stage</b>
+<table style="width:100%; border-collapse:collapse; background-color:#fffaf2; border-radius:4px; overflow:hidden; margin-top:10px;">
+<tr style="background-color:#c0392b; color:#ffffff;">
+<th style="padding:6px 10px; text-align:left;">Stage</th>
+<th style="padding:6px 10px; text-align:left;">GER (%)</th>
+</tr>
+<tr style="background-color:#fffaf2;">
+<td style="padding:6px 10px;">Foundational (Nursery to II)</td>
+<td style="padding:6px 10px;">41.5%</td>
+</tr>
+<tr style="background-color:#f2e6d3;">
+<td style="padding:6px 10px;">Preparatory (III–V)</td>
+<td style="padding:6px 10px;">96.5%</td>
+</tr>
+<tr style="background-color:#fffaf2;">
+<td style="padding:6px 10px;">Middle (VI–VIII)</td>
+<td style="padding:6px 10px;">89.5%</td>
+</tr>
+<tr style="background-color:#f2e6d3;">
+<td style="padding:6px 10px;">Secondary (IX–XII)</td>
+<td style="padding:6px 10px;">66.5%</td>
+</tr>
+</table>
+<p style="margin:10px 0 0 0; font-size:0.9em;">Enrolment ratio falls sharply after the Preparatory stage — from 96.5% to 66.5% by Secondary — pointing to rising dropout as students move up the schooling ladder.</p>
+
+<p style="margin:16px 0 4px 0;"><b>Percentage of Total Enrolments by Group</b></p>
+<table style="width:100%; border-collapse:collapse; background-color:#fffaf2; border-radius:4px; overflow:hidden;">
+<tr style="background-color:#2c7a6b; color:#ffffff;">
+<th style="padding:6px 10px; text-align:left;">Group</th>
+<th style="padding:6px 10px; text-align:left;">Share of Total Enrolments</th>
+</tr>
+<tr style="background-color:#fffaf2;">
+<td style="padding:6px 10px;">Girls</td>
+<td style="padding:6px 10px;">48.1%</td>
+</tr>
+<tr style="background-color:#f0f5f4;">
+<td style="padding:6px 10px;">OBC</td>
+<td style="padding:6px 10px;">45.2%</td>
+</tr>
+<tr style="background-color:#fffaf2;">
+<td style="padding:6px 10px;">Minorities</td>
+<td style="padding:6px 10px;">20%</td>
+</tr>
+<tr style="background-color:#f0f5f4;">
+<td style="padding:6px 10px;">SC</td>
+<td style="padding:6px 10px;">18%</td>
+</tr>
+<tr style="background-color:#fffaf2;">
+<td style="padding:6px 10px;">ST</td>
+<td style="padding:6px 10px;">9.9%</td>
+</tr>
+</table>
+
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for full source citations.</p>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Key Challenges in School Education</b></p>
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:8px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Category</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Key Challenge</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Details</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#4a6b7c;" rowspan="3">The Learning Crisis</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">ASER Report Findings</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Poor foundational skills in reading and arithmetic. A significant percentage of 14–18-year-olds cannot read simple texts or perform basic arithmetic.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Rote Learning</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Emphasis on rote memorization leads to a lack of real-life application of knowledge.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Fragmented Ecosystem</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Varied quality of education across different institutions (e.g., Madrasas, tribal schools).</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#c0392b;" rowspan="4">Affordability, Access, and Equity</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Dropout Rates</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">High dropout rates due to poverty, lack of infrastructure, and gender disparities.
+<ul style="margin:6px 0 0 0; padding-left:18px;">
+<li>For example, in Bihar, the dropout rate at the secondary level is reported to be as high as 83%, indicating severe retention issues in certain regions.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Out-of-School Children</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Over 1.4 million children aged 6–11 are out of school due to poverty and lack of digital access during the pandemic.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Social Gaps</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Gender disparities and social norms (e.g., child marriage) limit education for girls and marginalized children.
+<ul style="margin:6px 0 0 0; padding-left:18px;">
+<li>The ASER 2023 report indicates that 40% of girls aged 15–18 remain out of school due to early marriages, domestic duties, and gender-based violence.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">High School Fees</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Rising cost of private schools makes quality education inaccessible for many.
+<ul style="margin:6px 0 0 0; padding-left:18px;">
+<li>In Telangana, private school fees have risen by up to 30% over the last decade, limiting the affordability of quality education.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c7a6b;" rowspan="3">Infrastructure and Resource Gaps</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Lack of Basic Amenities</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Many schools, especially in rural areas, lack essential facilities like clean water, toilets, and playgrounds.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Digital Gaps</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Rural areas face lack of digital infrastructure, hindering access to e-learning opportunities.
+<ul style="margin:6px 0 0 0; padding-left:18px;">
+<li>Only 53.9% of schools in India have access to the internet, with rural areas facing significant barriers to digital learning.</li>
+<li>In rural areas, only 35% of students have access to digital devices for education.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Underfunding</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Education expenditure remains well below the recommended 6% of GDP.
+<ul style="margin:6px 0 0 0; padding-left:18px;">
+<li>The current education expenditure in India remains around 3.1% of GDP, well below the 6% recommended by experts and global organizations like UNESCO.</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Major Government Initiatives</b></p>
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:8px; width:100%; box-sizing:border-box;">
+<ul style="margin:0; padding-left:20px;">
+<li><b>Samagra Shiksha Abhiyan:</b> A comprehensive initiative that aims to improve learning outcomes and infrastructure development across schools.</li>
+<li><b>Mid-Day Meal (PM-POSHAN) Scheme:</b> Provides free nutritious meals to school children, improving attendance and addressing hunger.</li>
+<li><b>NIPUN Bharat Mission:</b> Targets foundational literacy and numeracy for all children by Class 3, ensuring universal foundational skills.</li>
+<li><b>Madrasa Modernization:</b> Efforts to modernize Madrasa education and integrate it into the formal school system to improve educational infrastructure.</li>
+</ul>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>NIPUN Bharat: Foundational Literacy and Numeracy (FLN)</b>
+<p style="margin:8px 0 0 0;">Foundational Literacy and Numeracy (FLN) is crucial for early childhood development, influencing long-term educational outcomes.</p>
+<p style="margin:10px 0 0 0;">Under NEP 2020, the NIPUN Bharat Mission promotes joyful, activity-based learning from preschool to grade 3, aiming to reduce dropouts and build strong foundations for learning.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Components of NIPUN Bharat Mission</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>NIPUN Bharat Documents:</b> Official documents guiding the mission.</li>
+<li><b>NIPUN Mission Videos:</b> Visual resources for mission understanding.</li>
+<li><b>Regional Workshop Resources:</b> Materials for regional training sessions.</li>
+<li><b>Primers in Indian Languages:</b> Introductory books in local languages.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Madarsa Education System in India</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The madarsa education system is a traditional Islamic network focusing primarily on religious education — Quran, Hadith, Fiqh (Islamic law), and Arabic. Over time, many madarsas have introduced secular subjects like mathematics, science, and English to enhance student outcomes.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Structure and Reach</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Operates at primary to higher education levels, offering degrees like Maulvi (Class 10), Alim (Class 12), Kamil (Bachelor's), and Fazil (Master's).</li>
+<li>As of 2018–19, India had 24,010 madarsas, with 19,132 recognised and 4,878 unrecognised madarsas.</li>
+<li>Uttar Pradesh houses the largest number of madarsas.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for this figure.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Anjum Kadari &amp; Another v. Union of India (2024)</b>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>Supreme Court reversed the Allahabad High Court's judgment that struck down the UP Madarsa Act.</li>
+<li>The court held that a law can be struck down only for violating Fundamental Rights, not the basic structure.</li>
+<li>Confirmed the Act is within state legislative competence under Entry 25, Concurrent List (Education).</li>
+<li>Stressed that the Act aims to ensure educational standards and socio-economic inclusion for madarsa students.</li>
+<li>Struck down provisions awarding degrees like Fazil and Kamil for violating Section 22 of the UGC Act.</li>
+<li>Reaffirmed minority educational rights under Article 30(1) and the role of the NCMEI in safeguarding them.</li>
+</ul>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Modernisation Efforts</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Launched in the early 2000s, aimed at integrating modern subjects and enhancing infrastructure.</li>
+<li><b>Key schemes:</b>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>SPQEM (Scheme for Providing Quality Education in Madrasas).</li>
+<li>SPEMM (Scheme for Providing Education to Madrasas/Minorities).</li>
+</ul>
+</li>
+<li><b>Focus areas:</b> Teacher training, curriculum upgrades, and infrastructure development.</li>
+<li><b>Recent reforms:</b>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Uttarakhand introduced NCERT curriculum and Sanskrit as options.</li>
+<li>The 2024 Allahabad High Court struck down the UP Madarsa Board Act, raising legal and administrative questions.</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px; width:50%;">Key Challenges</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px; width:50%;">Way Forward</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Outdated religious curricula in many institutions.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Strengthen modernization schemes and ensure state recognition of madarsas.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Shortage of trained teachers for modern subjects.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Introduce vocational training, digital literacy, and skill-based learning.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Inadequate funding and poor infrastructure.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Focus on teacher capacity building and community engagement.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Resistance to change from within communities.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Promote a balanced approach to preserve tradition while ensuring mainstream integration and economic empowerment.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Lack of formal certification, reducing employability and access to higher education.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"></td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Social stigma and exclusion from mainstream education spaces.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"></td>
+</tr>
+</table>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">The Impact of COVID-19 on Education in India</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The COVID-19 pandemic led to one of the longest school closures in India, lasting over 73 weeks by September 2021. This caused disruptions in school enrollment, access to learning, and a significant learning loss among children.</p>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for the figures below.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Shift in Enrollment: Private to Public Schools</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Private to Government Shift:</b> Enrollment in private schools for children (age 6–14) in rural India dropped from 32.5% in 2018 to 24.4% in 2021, while government school enrollment rose from 64.3% to 70.3%.</li>
+<li><b>Reasons for Shift:</b> Financial distress made private schools unaffordable, while government schools offered free textbooks and food rations.</li>
+<li><b>Increase in Tuition:</b> The number of students taking paid tuition jumped from 29% in 2018 to 40% in 2021.</li>
+</ul>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Digital Divide in Remote Learning</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Smartphone Access:</b> Although smartphone access increased, children from less-educated families had less access (45%) compared to those with highly educated parents (79%).</li>
+<li><b>Learning Materials:</b> Over 80% of children received textbooks, but only 35% received additional materials like worksheets and online resources.</li>
+<li><b>Equity Gap:</b> 26.7% of children with low parental education got extra learning materials, compared to 49% with more educated parents.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Learning Loss</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Evidence of Loss:</b> A study found 92% of children in grades 2–6 lost at least one language skill, and 82% lost math skills.</li>
+<li><b>State-Level Data:</b> Surveys in Karnataka, Chhattisgarh, and West Bengal showed sharp drops in basic reading and arithmetic skills.</li>
+<li><b>Magnitude of Loss:</b> In Karnataka, learning progress was less than half of what it would have been in a normal year, showing a learning loss of over a year.</li>
+</ul>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Recommendations for Recovery</b>
+<p style="margin:8px 0 0 0;">The Standing Committee on Education, chaired by Dr. Vinay Sahasrabuddhe, proposed several key measures to address these challenges:</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li><b>Reopening Schools:</b> Safely reopen schools by vaccinating staff and students, holding classes in shifts, providing free masks, and offering incentives like food and study materials to re-enroll dropouts.</li>
+<li><b>Bridging Learning Gaps:</b> Assess learning gaps, create bridge courses, and provide personalized remedial classes for students needing extra support.</li>
+<li><b>Strengthening Digital Education:</b> Invest in digital infrastructure, distribute subsidized devices, train teachers for online content, and develop a hybrid model combining online and classroom learning.</li>
+<li><b>Rethinking Exams:</b> Establish a continuous assessment system alongside traditional exams, using workbooks and presentations.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Teacher's Training</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Teacher education is essential for developing skilled, knowledgeable, and value-driven educators who can shape young minds and strengthen the overall education system. Well-trained teachers not only deliver curriculum effectively but also inspire critical thinking and lifelong learning in students.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Improved Selection Processes</b>
+<p style="margin:8px 0 0 0;">To enhance the quality of teacher training, improved selection processes are necessary. These may include:</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>General knowledge tests.</li>
+<li>Subject-specific assessments.</li>
+<li>Intelligence and language proficiency tests.</li>
+<li>Interviews to assess attitude and interest.</li>
+</ul>
+<p style="margin:10px 0 0 0;">Such multi-dimensional evaluations can ensure only competent and passionate individuals enter the teaching profession.</p>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Government Initiatives for Teacher Training</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>DIKSHA (Digital Infrastructure for Knowledge Sharing):</b> Offers online and offline teacher training resources, helping educators collaborate, upgrade skills, and access diverse content anytime.</li>
+<li><b>Prashikshak Portal:</b> Developed by the Ministry of Education and Central Square Foundation, it supports District Institutes of Education and Training (DIETs) in improving teacher preparation programs.</li>
+<li><b>RTE Act Amendment (2017):</b> Mandated all in-service teachers to acquire minimum qualifications as per NCTE norms by March 31, 2019, aiming to enhance classroom teaching standards.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.9em; font-style:italic; color:#2c3e50;">These steps reflect a systemic effort to professionalize teaching, address learning gaps, and meet the evolving needs of modern education.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Higher Education Ecosystem</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Higher education refers to formal education beyond secondary school, typically provided by universities and colleges. It involves in-depth study of a specific subject area or field, leading to qualifications like bachelor's degrees, master's degrees, and PhDs.</p>
+<p style="margin:10px 0 0 0;">India's higher education system is the third largest in the world, next to the United States and China.</p>
+</div>
+
+<div style="text-align:center; margin-top:16px;">
+<img src="../../images/higher-education-system-structure.png" alt="Structure of the Higher Education System in India" style="max-width:85%; border-radius:6px;">
+</div>
+
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Type of University</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Governing Basis</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Affiliated Colleges</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Examples</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Central</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Established by Act of Parliament, under the Department of Higher Education (MHRD).</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Do not have affiliated colleges, but provide degrees for courses offered at selected institutions.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Delhi University, Jawaharlal Nehru University (JNU), Banaras Hindu University (BHU), Aligarh Muslim University.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">State</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Established under state legislation.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Provide degrees for courses offered at affiliated colleges.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">University of Mumbai, Bangalore University, University of Calcutta.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Private</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Established under state legislation.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Not legally permitted to establish affiliated colleges.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Amity University, Lovely Professional University (LPU), Ashoka University.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Deemed</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Under the Department of Higher Education (MHRD).</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Not legally permitted to establish affiliated colleges.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">BITS Pilani, Manipal Academy of Higher Education (MAHE), VIT Vellore.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">National Importance</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Under the Department of Higher Education (MHRD).</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Not legally permitted to establish affiliated colleges.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">IITs, IIMs, AIIMS, NITs.</td>
+</tr>
+</table>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>State of Higher Education</b>
+<p style="margin:8px 0 0 0;">India has one of the largest higher education systems globally, with the third-largest number of students after the United States and China.</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>Gross Enrolment Ratio (GER) rose from 24.3% (2014–15) to 27.1% (2019–20) and 28.4% (2020–21 and 2021–22).</li>
+<li>Gender Parity Index (GPI) improved, showing greater access for women in higher education.</li>
+<li>PhD enrolments nearly doubled from 1.17 lakh (2014–15) to 2.03 lakh (2019–20).</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for these figures.</p>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Issues in Higher Education</b>
+<p style="margin:8px 0 0 0;">India's higher education system faces several systemic challenges:</p>
+
+<p style="margin:14px 0 0 0;"><b>1. Bottlenecks in Regulation of Higher Education</b></p>
+<p style="margin:6px 0 0 0;">A complex and often opaque regulatory environment stifles institutional autonomy and innovation. This leads to inefficiencies and delays in implementing necessary reforms.</p>
+
+<p style="margin:14px 0 0 0;"><b>2. Quality and Accreditation (NAAC) of Institutions, and Global (QS) Rankings</b></p>
+<p style="margin:6px 0 0 0;">The National Assessment and Accreditation Council (NAAC) assesses the quality of Indian institutions, and reports indicate that 68% of institutions are of mediocre or poor quality. In global rankings, Indian institutions are making progress but still face significant challenges:</p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>QS World University Rankings: No Indian university is in the top 100.
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>However, in the recent QS World University Rankings, India has a record 54 institutions featured, the fourth highest globally after the US, UK, and China.</li>
+</ul>
+</li>
+</ul>
+
+<p style="margin:14px 0 0 0;"><b>3. Faculty Shortage and Quality of Research</b></p>
+<p style="margin:6px 0 0 0;">India faces a critical faculty shortage across universities:</p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>35% professor, 46% associate professor, and 26% assistant professor vacancies remain unfilled.</li>
+<li>Research output is low, with India's R&amp;D expenditure at 0.64% of GDP (2020–21).</li>
+<li>Indian businesses contribute only 37% of Gross Expenditure on R&amp;D (GERD), which hinders innovation and industry-academia collaborations.</li>
+</ul>
+
+<p style="margin:14px 0 0 0;"><b>4. Financing of Higher Education (HEFA)</b></p>
+<p style="margin:6px 0 0 0;">The Higher Education Financing Agency (HEFA) was launched in 2017 as a joint initiative of the Ministry of Education and Canara Bank, to provide low-interest loans for the development of infrastructure and research facilities in India's premier educational institutions. This model marked a shift from traditional direct grants to loan-based funding, aiming to raise the global competitiveness of Indian institutions.</p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>By March 2025, HEFA had sanctioned over ₹43,438 crore across 109 institutions, supporting the creation of labs, hostels, libraries, and innovation ecosystems.</li>
+<li>This financing mechanism aligns with the vision of the NEP 2020 to improve educational quality and outcomes, especially amidst concerns of chronic underfunding — India's education spending still hovers below 3% of GDP, far short of the 4–6% recommended by global standards.</li>
+</ul>
+
+<p style="margin:14px 0 0 0;"><b>Emerging Challenges of the Loan-Based Model</b></p>
+<p style="margin:6px 0 0 0;">Despite enabling physical expansion, HEFA's approach has led to serious structural and equity concerns:</p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Rising Student Fees:</b> To service the HEFA loans, institutions — particularly IITs and Central Universities — have resorted to steep fee hikes. This undermines affordability, disproportionately impacting students from marginalized and low-income backgrounds.</li>
+<li><b>Risk of Commercialization and Exclusion:</b> The shift towards self-financing models pushes public institutions towards a quasi-private framework, potentially eroding their public character and inclusive mission.</li>
+<li><b>Diversion from Core Functions:</b> Institutions are compelled to divert funds for debt servicing, which can compromise investment in academic quality, teaching resources, and research.</li>
+<li><b>Neglect of State Public Universities:</b> While HEFA has focused on centrally funded institutions, 81% of India's higher education students are in state public universities, which remain underfunded and excluded from HEFA support, relying on unpredictable state grants and limited fee-based income.</li>
+</ul>
+
+<p style="margin:14px 0 0 0;"><b>Way Forward</b></p>
+<p style="margin:6px 0 0 0;">To ensure that infrastructure development does not come at the cost of affordability and access, India must adopt a more nuanced and equity-driven approach:</p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Increase Public Education Spending:</b> The government should progressively raise education funding to 6% of GDP, reducing the burden on institutions to rely on fee income or loans.</li>
+<li><b>Expand Grants and Scholarships:</b> Scale up need-based scholarships and targeted grants to cushion vulnerable groups from rising educational costs.</li>
+<li><b>Transparent Fee Regulation:</b> Introduce strong oversight mechanisms to regulate tuition and prevent arbitrary fee hikes, ensuring financial predictability for students.</li>
+<li><b>State-Level Financing Innovations:</b> Establish state-specific education finance agencies, as recommended by NITI Aayog, and explore alumni engagement models, corporate partnerships, and philanthropy to diversify funding sources for state universities.</li>
+<li><b>Balance Growth with Equity:</b> While HEFA can continue to support capital-intensive expansion, it should be complemented by direct public grants, particularly for essential teaching infrastructure and student support services.</li>
+</ul>
+
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for these figures.</p>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Regulatory Framework of Higher Education in India</b></p>
+<table style="width:100%; border-collapse:separate; border-spacing:8px; margin-top:8px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:33.33%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:200px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">POLICY MAKING</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.85em; color:#333333; flex:1;">
+<li>Department of Higher Education, Ministry of Human Resource Development.</li>
+<li>Association of Indian Universities.</li>
+<li>Central Advisory Board of Education.</li>
+<li>State Councils for Higher Education.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:33.33%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #c8d6dd; border-radius:8px; overflow:hidden; height:200px; display:flex; flex-direction:column;">
+<div style="background-color:#4a6b7c; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">REGULATION</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.85em; color:#333333; flex:1;">
+<li>University Grants Commission.</li>
+<li>AICTE, MCI, PCI, DEC, BCI, NCTE.</li>
+<li>ICAR, ICMR, ICSSR, CSIR.</li>
+<li>State Regulators.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:33.33%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #e2cfe0; border-radius:8px; overflow:hidden; height:200px; display:flex; flex-direction:column;">
+<div style="background-color:#8e44ad; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">ACCREDITATION</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.85em; color:#333333; flex:1;">
+<li>National Board of Accreditation.</li>
+<li>National Assessment and Accreditation Council.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+<p style="margin:20px 0 8px 0;"><b>Number of Indian Institutions in QS World University Rankings</b></p>
+<p style="margin:0 0 8px 0; font-size:0.9em; color:#555555;">Over the past decade, India has increased its representation in the rankings by <b>318%</b> — the highest growth among the G20 nations.</p>
+<table style="width:100%; border-collapse:separate; border-spacing:8px; margin-top:8px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:33.33%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:110px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:32px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">2015</div>
+<div style="flex:1; display:flex; align-items:center; justify-content:center; font-size:1.8em; font-weight:bold; color:#2c7a6b;">11</div>
+</div>
+</td>
+<td style="vertical-align:top; width:33.33%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:110px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:32px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">2020</div>
+<div style="flex:1; display:flex; align-items:center; justify-content:center; font-size:1.8em; font-weight:bold; color:#2c7a6b;">28</div>
+</div>
+</td>
+<td style="vertical-align:top; width:33.33%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:110px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:32px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">2025</div>
+<div style="flex:1; display:flex; align-items:center; justify-content:center; font-size:1.8em; font-weight:bold; color:#2c7a6b;">46</div>
+</div>
+</td>
+</tr>
+</table>
+<p style="margin:8px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">Note: this 2025 count (46) differs from the "54 institutions" figure cited earlier under Key Issues → Quality and Accreditation — not reconciled, likely different QS ranking editions or categories. See [[education]] (data folder).</p>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Indicators: How India Compares with Others (R&amp;D)</b>
+<p style="margin:8px 0 0 0;">India compares unfavourably with the world's best on R&amp;D expenditure as a percentage of GDP — a figure that has trended downward over the past decade. India also has far fewer researchers per million population than China, Brazil, or the US.</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>R&amp;D expenditure as a share of GDP declined steadily from 0.76% (2011–12) to 0.64% (2020–21), even as absolute spending rose from ₹65,961 crore to ₹1,27,381 crore.</li>
+<li>India's R&amp;D spend (0.64% of GDP) trails all of the world's top R&amp;D spenders, led by Israel (5.35%) and South Korea (4.8%).</li>
+<li>India has just 262 researchers per million population — far below Israel (8,342), Singapore (7,287), and even China (1,585).</li>
+<li>Women make up under a fifth of scientific staff in R&amp;D institutions (67,441 of 3,61,924).</li>
+<li>India filed 61,573 patents in 2021, well behind China (15.85 lakh) and the US (5.91 lakh).</li>
+<li>India produced 14,983 science &amp; engineering doctorates in 2020–21, led by Science (6,232) and Engineering/Technology (5,001).</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for the full country comparisons and trend tables.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Revamping India's Research Ecosystem: The Role of NRF</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">India's research ecosystem has long suffered from fragmented funding, low R&amp;D investment (about 0.7% of GDP), bureaucratic hurdles, and weak industry-academia collaboration. This has constrained India's global scientific standing and innovation capacity, especially when compared to nations like the US and China.</p>
+<p style="margin:10px 0 0 0;">To address these issues, the Anusandhan National Research Foundation (NRF) was established through the NRF Act, 2023, replacing the Science and Engineering Research Board (SERB).</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>NRF's Mandate and Structure</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Acts as an apex body to provide strategic direction and seed research across universities, R&amp;D labs, and colleges.</li>
+<li>Covers STEM fields, agriculture, health, and social sciences and humanities.</li>
+<li>Operates with a ₹50,000 crore budget for 2023–28 (28% public, 72% private/philanthropy).</li>
+<li>Governed by a board of scientists, industry leaders, and officials, with the Prime Minister as ex-officio President.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for this figure.</p>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Features and Reforms</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Democratises research funding by supporting peripheral and rural institutions alongside elite centres.</li>
+<li>Streamlines processes by reducing bureaucratic delays and standardising funding mechanisms.</li>
+<li>Strengthens industry-academia linkages and promotes international research partnerships.</li>
+<li>Encourages interdisciplinary work, including priority areas like clean energy, sustainability, and climate change.</li>
+<li>Includes social sciences and humanities, broadening the research landscape.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Challenges</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Mobilising private sector contributions at such scale is untested.</li>
+<li>Ensuring inclusive access to smaller institutions remains a concern.</li>
+<li>Bureaucratic inertia may hinder reforms.</li>
+<li>Translating research into tangible societal or economic impact is still a systemic weakness.</li>
+</ul>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Way Forward</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Incentivise private and philanthropic investment in research.</li>
+<li>Ensure merit-based and transparent funding through robust evaluation systems.</li>
+<li>Actively support underrepresented regions and disciplines.</li>
+<li>Focus on applied research that addresses real-world challenges.</li>
+<li>Foster global collaborations and align efforts with India's target of 2% of GDP in R&amp;D by 2047.</li>
+</ul>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">Miscellaneous Topics for Education</h3>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Internationalization of Higher Education: Foreign Universities in India</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The entry of foreign universities into India's higher education sector is poised to transform the academic landscape well beyond just adding prestigious names.</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>These institutions bring internationally benchmarked curricula, globally recognized degrees, and experienced faculty, allowing Indian students access to world-class education without incurring high overseas costs or facing visa hurdles.</li>
+<li>This not only makes quality education more affordable and inclusive but also helps retain talent and reduce the outflow of foreign exchange.</li>
+<li>Foreign campuses foster research collaboration, faculty exchange, and governance reforms, raising academic standards and research output in Indian institutions.</li>
+<li>Their industry-aligned programs focus on practical skills, internships, and entrepreneurship, directly enhancing the employability of Indian graduates in both domestic and global markets.</li>
+<li>Additionally, India's strategic location and youthful, English-speaking population position it as a potential global education hub, attracting students from South Asia, Africa, and the Middle East.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Challenges</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>High Tuition Costs:</b> Risk of catering only to affluent students, excluding marginalized sections.</li>
+<li><b>Limited Reach:</b> Only a few campuses are operational in the short term, limiting system-wide impact.</li>
+<li><b>Cultural Disconnects:</b> Differences in pedagogy, governance styles, and student support systems may affect assimilation.</li>
+<li><b>Regulatory Uncertainty:</b> Approval processes, taxation, and autonomy concerns could deter full-scale participation.</li>
+<li><b>Commercialization Risk:</b> Risk of profit-driven models overtaking quality and public interest goals.</li>
+</ul>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Way Forward</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Robust Regulatory Framework:</b> Ensure clear, transparent rules with academic safeguards and grievance redressal mechanisms.</li>
+<li><b>Equitable Access:</b> Offer scholarships, cross-subsidies, and inclusion mandates to prevent elitism.</li>
+<li><b>Domestic Collaboration:</b> Encourage partnerships with Indian universities for joint degrees, research, and faculty development.</li>
+<li><b>Local Integration:</b> Promote community engagement, Indian context-based courses, and bilingual pedagogy where needed.</li>
+<li><b>Gradual Expansion with Quality Focus:</b> Prioritize quality over quantity in approving new foreign institutions.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5efe0; border:1px solid #d8cfae; border-radius:8px; padding:16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Foreign universities can raise India's academic standards, improve employability, and internationalize education. However, their success depends on inclusive policies, regulatory clarity, and integration with local priorities to ensure that excellence goes hand-in-hand with equity.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Expanding India's Academic Footprint: Indian Universities Going Global</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The international expansion of Indian higher education institutions — such as IITs, IIMs, and leading private universities — into countries like the UAE, Tanzania, and Malaysia is reshaping India's global academic presence. These overseas campuses offer Indian curricula, degrees, and pedagogical models, delivering affordable and quality education to both the Indian diaspora and local students.</p>
+<p style="margin:10px 0 0 0;">This move enhances India's soft power, fosters cross-cultural collaboration, promotes joint research, and strengthens global academic networks, thereby raising the international profile of Indian institutions and contributing to the global talent pool.</p>
+</div>
+
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px; width:50%;">Challenges</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px; width:50%;">Way Forward</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Navigating diverse regulatory frameworks across countries.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Establish robust quality assurance mechanisms to ensure academic integrity overseas.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Ensuring consistent academic standards and infrastructure abroad.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Invest in faculty development and global exposure to prepare teams for international roles.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Facing stiff competition from well-established Western institutions.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Forge strategic partnerships with local universities and industries for contextual relevance.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Faculty shortages and the complexity of managing cross-border operations.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Ensure government support through streamlined approvals, diplomatic facilitation, and incentive structures.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Adapting Indian curricula to local socio-cultural and economic contexts without compromising quality.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Maintain a balance between global ambition and academic excellence, ensuring relevance in diverse educational ecosystems.</td>
+</tr>
+</table>
+</div>
+
+<div style="background-color:#f5efe0; border:1px solid #d8cfae; border-radius:8px; padding:16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">As Indian institutions expand internationally, success will depend on maintaining quality, building local relevance, and leveraging this opportunity to position India as a global leader in affordable, high-impact education.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">AI in Education: Personalized Learning and Ethical Challenges</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Artificial Intelligence (AI) is revolutionizing Indian education through personalized learning, where AI platforms customize content, pace, and assessments based on each student's needs and strengths.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Highlights</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Market Growth:</b> Valued at $4.74 billion in 2024, reflecting rapid expansion.</li>
+<li><b>Adoption:</b> Over 75% of higher education institutions use hybrid or AI-enabled models.</li>
+<li><b>Government Push:</b> e-Adhigam and the 2025: Year of AI initiative target 40 million students.</li>
+<li><b>Learning Outcomes:</b> AI boosts academic performance by 17% and retention by 15%.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for these figures.</p>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Challenges</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Digital Divide:</b> Limited access in rural areas due to poor connectivity and devices.</li>
+<li><b>Teacher Readiness:</b> Many educators lack training to integrate AI in classrooms.</li>
+<li><b>Ethical Concerns:</b> Issues of data privacy, algorithmic bias, and tech over-dependence.</li>
+<li><b>Affordability:</b> AI tools may be too costly for underfunded institutions.</li>
+</ul>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Way Forward</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Invest in digital infrastructure and affordable AI solutions.</li>
+<li>Ensure teacher training in tech integration.</li>
+<li>Strengthen data protection laws and ethical AI frameworks to ensure equity and inclusion.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Case Study: AI Maker Labs – Learning by Doing in Indian Education</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">AI-enabled maker labs represent a transformative shift in education, moving from passive textbook learning to hands-on experimentation. These labs allow students to interact directly with AI tools and applications, bridging the gap between abstract theory and real-world practice. Such experiential learning fosters deeper understanding, creativity, and problem-solving — skills essential for the AI-driven future.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Features and Implementation</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Real-World Application:</b> Students train AI models (e.g., object classification in environmental science), learning core AI functions and ethical considerations like bias.</li>
+<li><b>AI Made Tangible:</b> Labs help students grasp AI mechanics and limitations through direct interaction.</li>
+<li><b>Atal Tinkering Labs (ATLs):</b> Over 10,000 labs under the Atal Innovation Mission provide foundational infrastructure for AI integration.</li>
+<li><b>Challenges:</b> Common issues include undertrained facilitators, underutilized tools, and lack of a creative experimentation culture.</li>
+<li><b>Targeted Outreach:</b> With 60% of labs in government schools, inclusive implementation needs state and community collaboration.</li>
+<li><b>Strategic Needs:</b> Success depends on teacher training, strong leadership, mentorship, and curriculum support.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for these figures.</p>
+</div>
+
+<div style="background-color:#f5efe0; border:1px solid #d8cfae; border-radius:8px; padding:16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">AI maker labs hold great promise in democratizing AI education. With the right support systems, they can prepare India's students to innovate, adapt, and lead in an AI-powered world.</p>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">2.2.3. Private Sector in Education</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">There may be two types of providers of education in the Indian system: public and private. Private institutions are further classified as:</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>Partly funded by the government (aided), or</li>
+<li>Entirely self-funded (unaided).</li>
+</ul>
+<p style="margin:10px 0 0 0;">Public institutions are established, funded and managed by the government. Private providers of education often step in when the government has limited resources to provide universal access to education.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Growth of Privatization</b>
+<p style="margin:8px 0 0 0;">Over the past two decades, India has witnessed a rapid increase in privatization within its education sector.</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>In 2021–22, private unaided schools accounted for over 32 percent of total schools imparting education in India.</li>
+<li>In higher education, 67% of universities and 37% of colleges in India are private.</li>
+</ul>
+
+<p style="margin:14px 0 4px 0;"><b>Percentage of Schools: All India (Government vs. Private Unaided)</b></p>
+<table style="width:100%; border-collapse:collapse; background-color:#fffaf2; border-radius:4px; overflow:hidden;">
+<tr style="background-color:#c0392b; color:#ffffff;">
+<th style="padding:6px 10px; text-align:left;">Year</th>
+<th style="padding:6px 10px; text-align:left;">Government</th>
+<th style="padding:6px 10px; text-align:left;">Private Unaided</th>
+</tr>
+<tr style="background-color:#fffaf2;">
+<td style="padding:6px 10px;">2017–18</td>
+<td style="padding:6px 10px;">70.2%</td>
+<td style="padding:6px 10px;">29.4%</td>
+</tr>
+<tr style="background-color:#f2e6d3;">
+<td style="padding:6px 10px;">2018–19</td>
+<td style="padding:6px 10px;">69.9%</td>
+<td style="padding:6px 10px;">30.1%</td>
+</tr>
+<tr style="background-color:#fffaf2;">
+<td style="padding:6px 10px;">2019–20</td>
+<td style="padding:6px 10px;">68.5%</td>
+<td style="padding:6px 10px;">32.7%</td>
+</tr>
+<tr style="background-color:#f2e6d3;">
+<td style="padding:6px 10px;">2020–21</td>
+<td style="padding:6px 10px;">68.4%</td>
+<td style="padding:6px 10px;">33.3%</td>
+</tr>
+<tr style="background-color:#fffaf2;">
+<td style="padding:6px 10px;">2021–22</td>
+<td style="padding:6px 10px;">68.7%</td>
+<td style="padding:6px 10px;">32.9%</td>
+</tr>
+</table>
+<p style="margin:10px 0 0 0; font-size:0.9em;">The share of private unaided schools rose fairly steadily from 29.4% (2017–18) to a peak of 33.3% (2020–21), before dipping slightly to 32.9% in 2021–22.</p>
+
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for these figures.</p>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Challenges and Issues in Private Sector Participation</b>
+
+<p style="margin:14px 0 0 0;"><b>Inequality and Affordability</b></p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>A study by the National Sample Survey Office (NSSO) found a significant correlation between household income and the likelihood of children attending private schools.</li>
+<li>The rising costs of private professional colleges, such as medical and engineering institutions, have made them financially out of reach for many students.</li>
+</ul>
+
+<p style="margin:14px 0 0 0;"><b>Quality Concerns</b></p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Studies by organizations like the Centre for Policy Research have highlighted inconsistencies in teaching quality, infrastructure, and learning outcomes across private schools.</li>
+<li>Studies by the National Institutional Ranking Framework (NIRF) have shown a wide range in quality parameters among private universities and colleges.</li>
+</ul>
+
+<p style="margin:14px 0 0 0;"><b>Commercialization and Profit Motive</b></p>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>The profit-oriented nature of some private institutions can lead to a compromise on academic integrity, focus on employability over holistic development, and unethical practices like capitation fees.</li>
+<li>The case of private universities offering degrees in dubious disciplines or with questionable academic rigor highlights the commercialization concerns.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">2.2.4. Vocational Education and Skill Development</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">India's youth population presents an opportunity for a demographic dividend, but vocational education faces several challenges.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Low Penetration</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Only 3% of the workforce receives formal vocational training.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for this figure.</p>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Government Initiatives</b>
+<p style="margin:8px 0 0 0;">The Indian government has launched several initiatives to promote skill development and vocational training. Some of the key schemes include:</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li><b>Pradhan Mantri Kaushal Vikas Yojana (PMKVY):</b> This flagship scheme provides skill training to the youth to enhance their employability.</li>
+<li><b>National Skill Development Mission (NSDM):</b> NSDM acts as the overarching framework for coordinating skill development efforts across the country.</li>
+<li><b>National Apprenticeship Promotion Scheme (NAPS):</b> This scheme promotes apprenticeships as a means of skill development and employment.</li>
+<li><b>Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY):</b> This scheme focuses on skill development for rural youth.</li>
+<li><b>Skill India Mission:</b> This is a broader campaign encompassing various initiatives to create a skilled workforce.</li>
+<li><b>Jan Shikshan Sansthan (JSS):</b> These institutes provide vocational training to adults and out-of-school youth.</li>
+</ul>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Need for TVET in India</b></p>
+<table style="width:100%; border-collapse:separate; border-spacing:6px; margin-top:8px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:250px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">LACK OF SKILLED WORKFORCE</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Only 2.74% of the working population is formally trained in TVET in India, compared to 50% in developed countries.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:250px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">SUPPORTING GOVERNMENT INITIATIVES</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Supports initiatives like Make in India, etc.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:250px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">OVERCOME IMPACT OF COVID</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>On various sectors, as 4.1 million youth in India may have lost, or are likely to lose, their jobs in 2020.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:250px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">IMPROVES PRODUCTIVITY</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Builds a more capable and efficient workforce.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:250px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">MEETING INDUSTRY-SPECIFIC NEEDS</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Aligns skills training with what industry actually requires.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:250px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">DEMOGRAPHIC DIVIDEND</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>66% of India's population is in the working age group of 15–59.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:14.28%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:250px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:6px 6px; letter-spacing:0.2px; height:52px; display:flex; align-items:center; justify-content:center; font-size:0.76em; line-height:1.15;">BOOST INDIA'S COMPETITIVENESS</div>
+<ul style="margin:0; padding:10px 8px 10px 20px; font-size:0.78em; color:#333333; flex:1;">
+<li>Strengthens India's standing in the global economy.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p style="margin:8px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[education]] (data folder) for these figures.</p>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">2.2.5. NTA and Exam Paper Leak</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The National Testing Agency (NTA), established in 2017 under the Ministry of Education, is India's premier autonomous body for conducting standardized and transparent entrance exams for higher education. It aims to ensure equity, quality, and reliability in assessments using scientific and fair testing systems.</p>
+<p style="margin:10px 0 0 0;"><b>Key exams conducted by NTA include:</b></p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>NEET (UG)</li>
+<li>JEE Main</li>
+<li>CUET (UG &amp; PG)</li>
+<li>UGC-NET</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Paper Leak Controversy</b>
+<p style="margin:8px 0 0 0;">In recent months, NTA has come under scrutiny due to serious paper leak allegations, especially in NEET-UG and CUET. These have highlighted major systemic issues:</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>Lapses in test security and confidentiality.</li>
+<li>Outdated exam conduct practices (offline pen-paper mode).</li>
+<li>Insufficient vetting of exam center staff and IT systems.</li>
+</ul>
+<p style="margin:10px 0 0 0;">These failures have eroded public trust, triggered widespread protests, and raised concerns about fairness and transparency in national-level exams.</p>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Paper Leaks in Recent Years (2019–2024*)</b>
+<table style="width:100%; border-collapse:collapse; background-color:#fffaf2; border-radius:4px; overflow:hidden; margin-top:10px;">
+<tr style="background-color:#c0392b; color:#ffffff;">
+<th style="padding:6px 10px; text-align:left;">Year</th>
+<th style="padding:6px 10px; text-align:left;">Paper Leaks</th>
+</tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">2019</td><td style="padding:6px 10px;">9</td></tr>
+<tr style="background-color:#f2e6d3;"><td style="padding:6px 10px;">2020</td><td style="padding:6px 10px;">12</td></tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">2021</td><td style="padding:6px 10px;">17</td></tr>
+<tr style="background-color:#f2e6d3;"><td style="padding:6px 10px;">2022</td><td style="padding:6px 10px;">11</td></tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">2023</td><td style="padding:6px 10px;">12</td></tr>
+<tr style="background-color:#f2e6d3;"><td style="padding:6px 10px;">2024*</td><td style="padding:6px 10px;">5</td></tr>
+</table>
+<p style="margin:6px 0 0 0; font-size:0.78em; color:#7a6a55;">*2024 figures are till June 25.</p>
+
+<p style="margin:14px 0 4px 0;"><b>Exams Cancelled/Postponed (2019–2024*)</b></p>
+<table style="width:100%; border-collapse:collapse; background-color:#fffaf2; border-radius:4px; overflow:hidden;">
+<tr style="background-color:#2c7a6b; color:#ffffff;">
+<th style="padding:6px 10px; text-align:left;">Category</th>
+<th style="padding:6px 10px; text-align:left;">Count</th>
+</tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">Exams Cancelled/Postponed</td><td style="padding:6px 10px;">34</td></tr>
+<tr style="background-color:#f0f5f4;"><td style="padding:6px 10px;">Recruitment Exams (leaks)</td><td style="padding:6px 10px;">40</td></tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">Non-Recruitment Exams (leaks)</td><td style="padding:6px 10px;">25</td></tr>
+</table>
+<p style="margin:10px 0 0 0; font-size:0.9em;">Paper leaks peaked in 2021 (17 incidents) and have led to 34 exams being cancelled or postponed since 2019, with recruitment exams (40 leaks) more affected than non-recruitment exams (25 leaks).</p>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">Source: Media Reports, as cited (not independently verified this session). See [[education]] (data folder).</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Government Response &amp; Legislative Action</b>
+<p style="margin:8px 0 0 0;">To address these concerns, the Central Government announced major NTA reforms in December 2024:</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>NTA to exit recruitment exams and focus solely on higher education entrance exams from 2025.</li>
+<li><b>Restructuring of NTA:</b>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Creation of an empowered governing council with domain experts.</li>
+<li>Addition of 10 verticals including test security, research, and infrastructure.</li>
+<li>Launch of computer-adaptive testing systems and AI-enabled monitoring tools.</li>
+</ul>
+</li>
+<li>A shift towards online testing for major exams like NEET is under active discussion.</li>
+</ul>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Way Forward</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Strengthen digital infrastructure and adopt adaptive computer-based testing.</li>
+<li>Enhance exam security through biometric verification, AI-based proctoring, and real-time surveillance.</li>
+<li>Ensure transparency and accountability through audits, public disclosures, and strict penalties.</li>
+<li>Legislative measures to criminalize organized exam fraud and plug legal gaps in enforcement.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5efe0; border:1px solid #d8cfae; border-radius:8px; padding:16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The NTA is pivotal to India's higher education admission system, but recent paper leaks have exposed critical weaknesses. With the government's reform push, there is an opportunity to rebuild credibility, modernize exam conduct, and ensure that merit, not malpractice, determines opportunity.</p>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Public Examinations (Prevention of Unfair Means) Act, 2024</b>
+<p style="margin:8px 0 0 0;">Enacted in February 2024, effective June 21, 2024, to curb exam paper leaks in tests like NEET and UGC-NET. The first national law specifically addressing unfair means in public exams.</p>
+<p style="margin:10px 0 0 0;"><b>Objective:</b> To restore public trust by ensuring exam integrity, accountability, and severe deterrence against malpractice.</p>
+
+<p style="margin:14px 0 4px 0;"><b>Key Provisions</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li><b>Strict Punishments:</b>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Paper leak offenders: 3–5 years' jail + ₹10 lakh fine.</li>
+<li>Organized crime: 5–10 years' jail + ₹1 crore minimum fine.</li>
+</ul>
+</li>
+<li><b>Cognisable &amp; Non-bailable:</b> Police can arrest without a warrant; offences are non-compoundable.</li>
+<li><b>Institutional Accountability:</b>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Exam service providers failing to report offences: fined up to ₹1 crore.</li>
+<li>Institutions involved may face property seizure and cost recovery.</li>
+</ul>
+</li>
+<li><b>Targets Organised Crime:</b> Covers leaks, impersonation, hacking, and related offences.</li>
+<li><b>Student Protection:</b> Genuine candidates are shielded from punishment.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">2.2.6. National Education Policy</h4>
+
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Stage of Education / Dimension</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Policy Recommendation</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Potential Impact</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Early Childhood Education (3–6 years)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Incorporate Early Childhood Care and Education (ECCE) into the school curriculum through a 5+3+3+4 design.</li>
+<li>It should be play-based and activity-based learning.</li>
+</ul>
+</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>This recommendation will ensure that children receive a strong foundation in their early years, promoting brain development.</li>
+<li>It could lead to better learning outcomes in later stages of education, as early childhood education is critical for cognitive and emotional development.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Foundational Stage (3–8 years)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Establish foundational literacy and numeracy by grade 3 through the National Mission on Foundational Literacy and Numeracy.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Ensuring that every child achieves foundational literacy and numeracy by grade 3 will enhance long-term academic success and reduce dropout rates.</li>
+<li>It will also improve student performance in higher grades, contributing to a more competent workforce in the future.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Preparatory Stage (8–11 years)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Reducing curriculum load to focus on core subjects and enhancing critical thinking and analytical skills.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>By reducing the content load and focusing on critical thinking, students will be better prepared for complex subjects in the later stages of education.</li>
+<li>This could make learning more engaging and help students retain knowledge better, moving away from rote memorization.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Middle Stage (11–14 years)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Introduce flexibility in subject selection, offering a broader range of choices to students in secondary school.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Allowing students to choose subjects will lead to more personalized learning experiences, encouraging exploration of different areas of interest.</li>
+<li>This could reduce stress related to rigid subject structures and promote a more well-rounded skill set in students.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Secondary Stage (14–18 years)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Reform board exams to assess core concepts and allow multiple attempts.</li>
+<li>Promote the use of local languages as a medium of instruction.</li>
+</ul>
+</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>These reforms will reduce the pressure associated with high-stakes exams, allowing students to focus on conceptual understanding.</li>
+<li>The shift towards using local languages will enhance comprehension and inclusivity, enabling students from diverse linguistic backgrounds to better grasp subjects.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Higher Education</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Increase Gross Enrolment Ratio (GER) to 50% by 2035 through online and open distance learning options.</li>
+<li>Restructure institutions into multidisciplinary universities.</li>
+</ul>
+</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Improving GER will promote greater access to higher education, especially for marginalized communities.</li>
+<li>The restructuring of institutions into multidisciplinary entities will foster cross-disciplinary learning, preparing students for the complexities of the global workforce.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Vocational Education</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Integrate vocational education into all levels of school and higher education, aiming for 50% exposure by 2025.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>This policy will address the skills gap in India, as many students currently graduate without job-ready skills.</li>
+<li>Expanding vocational education will enable more students to acquire practical skills that can enhance employability and economic productivity, particularly in industries requiring specialized knowledge.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Teacher Training and Management</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Replace B.Ed. with a 4-year integrated program and ensure continuous professional development for teachers.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>This reform will improve the quality of teacher education, ensuring teachers are well-prepared and updated with the latest teaching methods.</li>
+<li>Continuous development will contribute to better classroom practices, leading to improved student outcomes.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Governance and Regulation</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Establish school complexes and independent state school standards authorities for better governance and quality.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>This will create more efficient school management systems, pooling resources and teachers to improve the quality of education in rural and underserved areas.</li>
+<li>It will also decentralize power, ensuring that local governments have more autonomy to cater to regional needs.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Research and Innovation in Higher Education</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Establish a National Research Foundation to fund and promote quality research.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Increased funding and support for research will boost innovation, contributing to scientific, technological, and social progress.</li>
+<li>It could also enhance India's global academic standing, leading to more collaboration with international institutions and attracting global talent.</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+
+<h1 style="background-color:#1a2530; color:#ffffff; padding:14px 20px; border-radius:8px; font-size:1.15em; letter-spacing:0.5px; text-align:center; margin-top:32px;">UNIT 3: POVERTY AND DEVELOPMENT ISSUES IN INDIA</h1>
+
+<h2 style="background-color:#2c3e50; color:#ffffff; padding:10px 16px; border-radius:6px; margin-top:20px;">1. Poverty in India</h2>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Poverty in India is a complex and multidimensional issue which has been conventionally understood through the lens of low income or inadequate calorie intake.</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>The modern definition of poverty is characterized by deprivation in multiple aspects of life, such as health, education, access to basic goods and services, and opportunity for self-improvement.</li>
+<li>While income is a central component in defining it, poverty also involves social exclusion, lack of physical security, and disempowerment. These factors contribute to an overall sense of deprivation that severely impacts an individual's quality of life.</li>
+<li>This multifaceted nature of poverty leads to intergenerational transmission of poverty, where the children of poor families are more likely to remain poor due to limited access to education, nutrition, and employment opportunities.</li>
+</ul>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Poverty Types</b></p>
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:8px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Characteristic</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Absolute</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Relative</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Multidimensional</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Definition</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Cannot meet basic survival needs.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Below average living standard.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Deprived in health, education, living.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Measurement</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Income thresholds (e.g., US$1.90/day).</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Average standard of living.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">Health, education, living standards.</td>
+</tr>
+</table>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Dimensions of Poverty in India</b></p>
+<table style="width:100%; border-collapse:separate; border-spacing:8px; margin-top:8px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:50%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">MATERIAL DIMENSIONS</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li>Food.</li>
+<li>Clothing.</li>
+<li>Shelter.</li>
+<li>Health and Education.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:50%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #e2cfe0; border-radius:8px; overflow:hidden; height:190px; display:flex; flex-direction:column;">
+<div style="background-color:#8e44ad; color:#ffffff; font-weight:700; text-align:center; padding:6px 8px; letter-spacing:0.3px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">NON-MATERIAL DIMENSIONS</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.88em; color:#333333; flex:1;">
+<li>Social Exclusion.</li>
+<li>Caste Discrimination.</li>
+<li>Gender Inequality.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">1.1. The Poverty Trap</h3>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Economists often describe poverty as a "trap" — a self-reinforcing condition where deprivation perpetuates further deprivation. In India, this trap is sustained by multiple interlinked factors.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Key Determinants of Poverty Trap in India</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Lack of Income and Purchasing Power:</b> Individuals living below the poverty line often lack the resources to afford basic necessities like food, shelter, healthcare, and education.</li>
+<li><b>Underemployment and Low Productivity:</b> Scarcity of quality jobs, informal employment, and low agricultural productivity limit income generation, reinforcing poverty across generations.</li>
+<li><b>Inadequate Social Infrastructure:</b> Poor access to education, healthcare, sanitation, and housing further reduces human capital development, keeping individuals in a state of marginalization.</li>
+</ul>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Understanding the Vicious Cycle of Poverty</b>
+<p style="margin:8px 0 0 0;">This complex situation leads to a vicious cycle of poverty:</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>Poor families can't invest in their children's education or health.</li>
+<li>Children grow up with fewer skills and limited job prospects.</li>
+<li>They enter adulthood trapped in the same conditions, repeating the cycle.</li>
+</ul>
+<p style="margin:10px 0 0 0;">This intergenerational transfer of poverty is further worsened by limited access to credit, insecure land rights, social exclusion, and ineffective safety nets.</p>
+
+<p style="margin:16px 0 8px 0;"><b>The Vicious Cycle of Poverty</b></p>
+<table style="width:100%; border-collapse:separate; border-spacing:8px; margin-top:8px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:25%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:130px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:4px 8px; letter-spacing:0.2px; height:32px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">1. LOW INCOME</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.85em; color:#333333; flex:1;">
+<li>Insufficient financial resources.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:25%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0ddc0; border-radius:8px; overflow:hidden; height:130px; display:flex; flex-direction:column;">
+<div style="background-color:#d68910; color:#ffffff; font-weight:700; text-align:center; padding:4px 8px; letter-spacing:0.2px; height:32px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">2. POOR NUTRITION AND HEALTH</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.85em; color:#333333; flex:1;">
+<li>Inadequate food and healthcare.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:25%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0e2a8; border-radius:8px; overflow:hidden; height:130px; display:flex; flex-direction:column;">
+<div style="background-color:#c9a227; color:#ffffff; font-weight:700; text-align:center; padding:4px 8px; letter-spacing:0.2px; height:32px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">3. LIMITED EDUCATION AND SKILLS</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.85em; color:#333333; flex:1;">
+<li>Lack of educational opportunities.</li>
+</ul>
+</div>
+</td>
+<td style="vertical-align:top; width:25%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:130px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:4px 8px; letter-spacing:0.2px; height:32px; display:flex; align-items:center; justify-content:center; font-size:0.85em; line-height:1.15;">4. LOW PRODUCTIVITY</div>
+<ul style="margin:0; padding:10px 10px 10px 26px; font-size:0.85em; color:#333333; flex:1;">
+<li>Reduced output and efficiency.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p style="margin:8px 0 0 0; font-size:0.85em; color:#666666;">Low productivity (step 4) feeds back into low income (step 1), closing the loop.</p>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Breaking the Cycle: Towards a Virtuous Loop</b>
+<p style="margin:8px 0 0 0;">The Economic Survey of India has consistently argued for a transition from a vicious cycle to a virtuous cycle of growth. This requires:</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>Strategic public investment in education, health, and infrastructure.</li>
+<li>Skill development and entrepreneurship promotion to enhance productivity.</li>
+<li>Job creation through industrial diversification and formalization.</li>
+<li>Social mobility initiatives, including credit access and targeted welfare.</li>
+</ul>
+
+<p style="margin:16px 0 8px 0;"><b>The Virtuous Cycle of Growth</b></p>
+<table style="width:100%; border-collapse:separate; border-spacing:8px; margin-top:8px; table-layout:fixed;">
+<tr>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0ddc0; border-radius:8px; overflow:hidden; height:150px; display:flex; flex-direction:column;">
+<div style="background-color:#d68910; color:#ffffff; font-weight:700; text-align:center; padding:4px 6px; letter-spacing:0.2px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">1. ECONOMIC GROWTH</div>
+<div style="flex:1; display:flex; align-items:center; justify-content:center; padding:8px; font-size:0.78em; color:#333333; text-align:center;">Rising overall output and income.</div>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #c8d6dd; border-radius:8px; overflow:hidden; height:150px; display:flex; flex-direction:column;">
+<div style="background-color:#4a6b7c; color:#ffffff; font-weight:700; text-align:center; padding:4px 6px; letter-spacing:0.2px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">2. PRODUCTIVE CAPACITY</div>
+<div style="flex:1; display:flex; align-items:center; justify-content:center; padding:8px; font-size:0.78em; color:#333333; text-align:center;">Expansion of the economy's capacity to produce.</div>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:150px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:4px 6px; letter-spacing:0.2px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">3. EMPLOYMENT WITH RISING PRODUCTIVITY</div>
+<div style="flex:1; display:flex; align-items:center; justify-content:center; padding:8px; font-size:0.78em; color:#333333; text-align:center;">More jobs, each more productive.</div>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #e2cfe0; border-radius:8px; overflow:hidden; height:150px; display:flex; flex-direction:column;">
+<div style="background-color:#8e44ad; color:#ffffff; font-weight:700; text-align:center; padding:4px 6px; letter-spacing:0.2px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">4. GREATER INVESTMENTS IN HEALTH, EDUCATION AND INFRASTRUCTURE</div>
+<div style="flex:1; display:flex; align-items:center; justify-content:center; padding:8px; font-size:0.78em; color:#333333; text-align:center;">Higher incomes and revenue fund social investment.</div>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #f0cdc8; border-radius:8px; overflow:hidden; height:150px; display:flex; flex-direction:column;">
+<div style="background-color:#c0392b; color:#ffffff; font-weight:700; text-align:center; padding:4px 6px; letter-spacing:0.2px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">5. HIGHER INCOME OF THE POOR</div>
+<div style="flex:1; display:flex; align-items:center; justify-content:center; padding:8px; font-size:0.78em; color:#333333; text-align:center;">Investment and jobs translate into rising incomes for the poor.</div>
+</div>
+</td>
+<td style="vertical-align:top; width:16.66%; padding:0;">
+<div style="background-color:#ffffff; border:1px solid #cfe3dd; border-radius:8px; overflow:hidden; height:150px; display:flex; flex-direction:column;">
+<div style="background-color:#2c7a6b; color:#ffffff; font-weight:700; text-align:center; padding:4px 6px; letter-spacing:0.2px; height:38px; display:flex; align-items:center; justify-content:center; font-size:0.78em; line-height:1.15;">6. EMPLOYMENT WITH RISING PRODUCTIVITY</div>
+<div style="flex:1; display:flex; align-items:center; justify-content:center; padding:8px; font-size:0.78em; color:#333333; text-align:center;">Reinforces further growth, closing the loop.</div>
+</div>
+</td>
+</tr>
+</table>
+<p style="margin:8px 0 0 0; font-size:0.85em; color:#666666;">"Employment with Rising Productivity" appears twice in the source diagram — the cycle passes through it once after productive capacity expands, and again after social investment raises the poor's incomes, before looping back to Economic Growth.</p>
+</div>
+
+<div style="background-color:#f5efe0; border:1px solid #d8cfae; border-radius:8px; padding:16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">Poverty in India is not merely a result of income deficiency, but a multidimensional trap that reinforces itself through poor capabilities and limited opportunities. Breaking this trap demands holistic policy efforts that empower individuals and enable them to participate meaningfully in economic growth. Creating a virtuous cycle, where higher incomes lead to better health and education — and, in turn, higher productivity — offers the most sustainable path to poverty eradication.</p>
+</div>
+
+<h2 style="background-color:#2c3e50; color:#ffffff; padding:10px 16px; border-radius:6px; margin-top:20px;">2. Hunger and Malnutrition</h2>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<ul style="margin:0; padding-left:20px;">
+<li><b>Hunger</b> is defined as prolonged food insecurity, where individuals are unable to access enough food due to financial constraints or a lack of resources.
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>According to the WHO, hunger arises when people are unable to obtain sufficient calories or essential nutrients to maintain good health.</li>
+</ul>
+</li>
+<li><b>Malnutrition</b> is another significant problem. It refers to deficiencies in the intake of necessary nutrients, which can either be caused by undernutrition or overnutrition.
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Undernutrition leads to problems like stunting, wasting, and micronutrient deficiencies. On the other hand, overnutrition, resulting from excessive consumption of unhealthy foods, leads to obesity, cardiovascular diseases, and diabetes.</li>
+</ul>
+</li>
+</ul>
+<p style="margin:10px 0 0 0;">One major aspect of undernutrition is <b>hidden hunger</b>, which occurs when individuals do not consume enough vitamins and minerals despite sufficient calorie intake. Hidden hunger significantly impacts children, pregnant women, and adults, contributing to poor cognitive development, illness, and reduced productivity.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Dimensions of Hunger</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Food Availability</b> — whether enough food exists (production and supply).</li>
+<li><b>Food Accessibility</b> — whether people can physically and economically obtain that food.</li>
+<li><b>Food Affordability</b> — whether people can afford to buy the food that is available and accessible.</li>
+</ul>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Global Hunger Index (GHI) 2024: India</b>
+<p style="margin:8px 0 0 0;">In the 2024 Global Hunger Index, India ranks 105th out of the 127 countries with sufficient data to calculate 2024 GHI scores. With a score of 27.3, India has a level of hunger that is <b>serious</b>.</p>
+
+<p style="margin:14px 0 4px 0;"><b>GHI Severity Scale</b></p>
+<table style="width:100%; border-collapse:collapse; background-color:#fffaf2; border-radius:4px; overflow:hidden;">
+<tr style="background-color:#c0392b; color:#ffffff;">
+<th style="padding:6px 10px; text-align:left;">Score Range</th>
+<th style="padding:6px 10px; text-align:left;">Category</th>
+</tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">≤ 9.9</td><td style="padding:6px 10px;">Low</td></tr>
+<tr style="background-color:#f2e6d3;"><td style="padding:6px 10px;">10.0–19.9</td><td style="padding:6px 10px;">Moderate</td></tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;"><b>20.0–34.9</b></td><td style="padding:6px 10px;"><b>Serious (India: 27.3)</b></td></tr>
+<tr style="background-color:#f2e6d3;"><td style="padding:6px 10px;">35.0–49.9</td><td style="padding:6px 10px;">Alarming</td></tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">≥ 50.0</td><td style="padding:6px 10px;">Extremely Alarming</td></tr>
+</table>
+
+<p style="margin:14px 0 4px 0;"><b>India's GHI Component Indicators (2024)</b></p>
+<table style="width:100%; border-collapse:collapse; background-color:#fffaf2; border-radius:4px; overflow:hidden;">
+<tr style="background-color:#2c7a6b; color:#ffffff;">
+<th style="padding:6px 10px; text-align:left;">Indicator</th>
+<th style="padding:6px 10px; text-align:left;">Value</th>
+</tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">Undernourishment (% of population)</td><td style="padding:6px 10px;">13.7%</td></tr>
+<tr style="background-color:#f0f5f4;"><td style="padding:6px 10px;">Child Stunting (% of children under five)</td><td style="padding:6px 10px;">35.5%</td></tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">Child Wasting (% of children under five)</td><td style="padding:6px 10px;">18.7%</td></tr>
+<tr style="background-color:#f0f5f4;"><td style="padding:6px 10px;">Child Mortality (% of children who die before age 5)</td><td style="padding:6px 10px;">2.9%</td></tr>
+</table>
+
+<p style="margin:14px 0 4px 0;"><b>GHI Score Trend for India</b></p>
+<table style="width:100%; border-collapse:collapse; background-color:#fffaf2; border-radius:4px; overflow:hidden;">
+<tr style="background-color:#c0392b; color:#ffffff;">
+<th style="padding:6px 10px; text-align:left;">2000</th>
+<th style="padding:6px 10px; text-align:left;">2008</th>
+<th style="padding:6px 10px; text-align:left;">2016</th>
+<th style="padding:6px 10px; text-align:left;">2024</th>
+</tr>
+<tr style="background-color:#fffaf2;">
+<td style="padding:6px 10px;">38.4</td>
+<td style="padding:6px 10px;">35.2</td>
+<td style="padding:6px 10px;">29.3</td>
+<td style="padding:6px 10px;">27.3</td>
+</tr>
+</table>
+<p style="margin:10px 0 0 0; font-size:0.9em;">India's GHI score has improved steadily from 38.4 in 2000 to 27.3 in 2024, moving from "alarming" toward the lower end of "serious" — but hunger remains a significant challenge.</p>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[health]] (data folder) for these figures.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Hidden Hunger and Malnutrition</b>
+<p style="margin:8px 0 0 0;">Despite significant strides in poverty reduction, hidden hunger and malnutrition continue to affect millions, particularly children and women, hindering overall health and productivity.</p>
+
+<p style="margin:14px 0 4px 0;"><b>Hidden Hunger</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Hidden hunger refers to micronutrient deficiencies — the lack of essential vitamins and minerals such as vitamin A, iron, and iodine — despite an adequate caloric intake. It remains a silent epidemic in India, especially among children and pregnant women.</li>
+<li>This type of hunger significantly impacts cognitive development, immune function, and overall health, leading to poor educational outcomes and reduced productivity in adulthood. Hidden hunger is particularly prevalent in rural and marginalized urban areas, where access to diverse and nutritious food remains limited.</li>
+</ul>
+
+<p style="margin:14px 0 4px 0;"><b>Malnutrition</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Malnutrition continues to be a pervasive issue in India, contributing to high rates of child stunting, wasting, and underweight. According to the Global Hunger Index (GHI) 2023, India ranks 111th out of 125 countries, reflecting its serious hunger levels.</li>
+<li>Child wasting, defined as low weight-for-height, remains a major concern, with India holding the highest global rate of 18.7% for child wasting. High rates of anemia in women (57%) and stunting (35.5%) among children are also prominent indicators of the scale of malnutrition in India.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[health]] (data folder) for these figures.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Causes of Hunger and Malnutrition</b>
+<p style="margin:8px 0 0 0;">Several interconnected factors contribute to hunger and malnutrition in India:</p>
+
+<p style="margin:14px 0 4px 0;"><b>Poverty</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Families below the poverty line cannot afford nutritious food, leading to issues like stunting and wasting. For instance, 31.4% of children in India are stunted due to chronic malnutrition caused by poverty.</li>
+<li>The World Bank estimates that 22% of India's population lives below the poverty line, limiting their access to nutritious food.</li>
+</ul>
+
+<p style="margin:14px 0 4px 0;"><b>Social and Cultural Factors</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Gender inequality is a critical factor. Women often have limited access to food within households, particularly in patriarchal societies. Cultural norms also play a role, where children and girls are sometimes deprived of adequate nutrition, leading to nutritional deficiencies.</li>
+<li>A study by UNICEF India found that gender inequality leads to food insecurity, where girls in rural Bihar were often fed last in their households, leading to nutritional deficiencies. Cultural norms prioritize male family members over females for food intake.</li>
+</ul>
+
+<p style="margin:14px 0 4px 0;"><b>Economic Factors</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Insufficient government expenditure on child nutrition, food wastage, and underutilization of welfare funds exacerbate hunger and malnutrition. Additionally, low agricultural productivity and underemployment in rural areas contribute to food insecurity.</li>
+<li>According to the Food and Agriculture Organization (FAO), India faces significant food wastage — about 40% of food production is wasted annually.</li>
+<li>The Government of India's Economic Survey 2020–21 highlighted that underutilization of funds allocated for child nutrition and low agricultural productivity contribute to malnutrition.</li>
+</ul>
+
+<p style="margin:14px 0 4px 0;"><b>Governance Issues</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Corruption, mismanagement, and inefficient monitoring of welfare schemes, such as the Public Distribution System (PDS), hinder the effective distribution of food and nutrition to the poor. Despite numerous government schemes, leakage, and ineffective implementation continue to pose significant challenges.</li>
+<li>A 2018 report by the Comptroller and Auditor General of India (CAG) found that 30–40% of food grains allocated for the Public Distribution System (PDS) in Bihar were lost due to leakage and mismanagement, preventing effective delivery to vulnerable populations.</li>
+</ul>
+
+<p style="margin:14px 0 4px 0;"><b>Environmental Factors</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>Climate change is increasingly affecting agriculture and food production, leading to food insecurity. Poor sanitation and hygiene also result in diseases that hinder nutrient absorption, exacerbating malnutrition.</li>
+<li>A 2019 report by the Indian Meteorological Department (IMD) highlighted that climate change is affecting food production in India. For example, wheat and rice production in states like Punjab and Haryana have been impacted by shifting monsoon patterns, leading to food insecurity. Moreover, poor sanitation continues to hinder nutrient absorption, exacerbating malnutrition.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">Note: this cites 31.4% child stunting, which differs from the 35.5% figure in the GHI 2024 data above — not reconciled, likely different sources/years. See [[health]] (data folder).</p>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">2.1. Link Between Poverty and Hunger</h3>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<ul style="margin:0; padding-left:20px;">
+<li><b>Limited Access to Food:</b> Poverty restricts financial resources, making it difficult for families to afford enough food, let alone nutritious options. A significant portion of the population in developing nations cannot afford a healthy diet, leading to undernutrition and food insecurity.</li>
+<li><b>Impact on Human Capital:</b> Hunger, especially in children, impairs physical growth, cognitive development, and learning abilities. This affects educational outcomes, leading to reduced opportunities for better employment in the future, and contributes to the intergenerational transmission of poverty.</li>
+<li><b>Reduced Productivity in Adults:</b> Malnutrition weakens the body's immunity and causes fatigue, making it difficult for adults to work at full capacity. This leads to underemployment or unemployment, which deepens the cycle of poverty.</li>
+<li><b>Poor Sanitation and Healthcare:</b> In impoverished areas, poor access to clean water, sanitation, and healthcare contributes to diseases like diarrhea, which further hinders nutrient absorption and worsens malnutrition. This health crisis increases medical costs, taking away resources from food.</li>
+<li><b>Vicious Cycle:</b> Poverty leads to hunger, and hunger reduces the capacity to work, earn, and thrive, making it harder to break free from the cycle of poverty and malnutrition. Both issues need to be tackled together to disrupt this ongoing loop.</li>
+</ul>
+</div>
+
+<h4 style="background-color:#7d97a5; color:#ffffff; padding:6px 14px; border-radius:6px; margin-top:24px; font-size:1em;">Ultra Processed Food and Hunger</h4>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The increasing consumption of ultra-processed foods (UPFs) in India highlights the intersection between health, hunger, and poverty. These foods are affordable, convenient, and widely accessible, making them particularly attractive to low-income populations who often struggle to afford healthier, fresh food. As a result, UPFs contribute to hidden hunger, where individuals consume sufficient calories but lack essential nutrients, leading to malnutrition.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<ul style="margin:0; padding-left:20px;">
+<li><b>Health Implications:</b> UPFs are linked to chronic conditions like obesity, cardiovascular diseases, and type 2 diabetes, which disproportionately affect impoverished communities. This exacerbates their already vulnerable health status and limits their ability to work or attend school, reinforcing the cycle of poverty.</li>
+<li><b>Economic Burden:</b> The affordability of UPFs often comes at the cost of nutrient-rich alternatives, such as fruits and vegetables, which are more expensive and less accessible. This imbalance leads to nutrient deficiencies and poor long-term health outcomes, increasing healthcare costs.</li>
+</ul>
+</div>
+
+<div style="background-color:#f5efe0; border:1px solid #d8cfae; border-radius:8px; padding:16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">In essence, the rise of UPF consumption in poverty-stricken areas creates a vicious cycle of poor health and limited opportunities. Addressing this issue requires multi-pronged policy measures, focusing on education, regulation, and promotion of healthy food options.</p>
+</div>
+
+<h2 style="background-color:#2c3e50; color:#ffffff; padding:10px 16px; border-radius:6px; margin-top:20px;">3. Government Response to Eliminate Poverty and Hunger</h2>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">3.1. Poverty Alleviation Programs</h3>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The Indian government has implemented several key welfare programs aimed at tackling poverty and hunger, especially among marginalized and vulnerable groups. These programs seek to address both economic deprivation and social exclusion, with a focus on improving the living standards of the poor, ensuring access to essential services, and empowering individuals to improve their socio-economic conditions.</p>
+</div>
+
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Scheme</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Details</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">National Rural Employment Guarantee Act (MGNREGA)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>A flagship program aimed at providing guaranteed employment to rural households. It ensures that at least one adult member of a household is employed for a minimum of 100 days per year, providing income support for rural families.</li>
+<li>Focuses on creating rural infrastructure through public works projects such as road construction, irrigation works, and afforestation. By providing employment opportunities, MGNREGA helps reduce rural poverty and improves the standard of living for millions of rural households.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Public Distribution System (PDS)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>One of the largest food security systems in the world, designed to provide subsidized food grains to the poor. It aims to ensure that vulnerable populations, especially those in rural and remote areas, have access to essential food items like rice, wheat, and sugar at affordable prices.</li>
+<li>Essential in preventing hunger and malnutrition by guaranteeing access to basic food for those unable to purchase it from the open market. However, challenges related to leakage, corruption, and inefficient distribution have hampered its effectiveness in some regions.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Pradhan Mantri Awas Yojana (PMAY)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>A housing scheme aimed at providing affordable housing to the urban poor. With a goal to construct millions of affordable homes for the homeless and those living in inadequate conditions, PMAY focuses on urban slums and underdeveloped rural areas.</li>
+<li>Aims to reduce homelessness and improve living standards, ensuring that the poor have access to safe and secure housing. It is part of the government's broader strategy to tackle urban poverty and create sustainable cities.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Swachh Bharat Abhiyan</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>The Clean India Mission is an initiative to improve sanitation and hygiene nationwide, with a particular focus on rural areas. It aims to eliminate open defecation, improve access to clean drinking water, and promote the use of toilets.</li>
+<li>By improving sanitation, the program directly impacts public health, reducing the incidence of waterborne diseases like diarrhea and malaria, which are prevalent in poor communities. Improved hygiene practices also contribute to reducing malnutrition and hidden hunger by ensuring safe environments for food consumption.</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">3.2. Programs for Removal of Hunger and Malnutrition</h3>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">India has implemented multiple programs to address hunger and malnutrition, focusing on both immediate food access and long-term nutrition improvement.</p>
+</div>
+
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Scheme</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px;">Details</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">National Food Security Act (NFSA)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Covers around 81 crore people.</li>
+<li>Targets 75% of the rural population and 50% of the urban population.</li>
+<li>Provides subsidized food grains through the Targeted Public Distribution System (TPDS).</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Extended till 2029.</li>
+<li>Ensures free food grains to 81.35 crore beneficiaries.</li>
+<li>Acts as a buffer for the poor against economic shocks.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Integrated Child Development Services (ICDS)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Targets children under six, as well as pregnant and lactating women.</li>
+<li>Provides supplementary nutrition, health checkups, and early education support.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">Mid-Day Meal Scheme (now PM POSHAN)</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li>Provides nutritious meals to school children.</li>
+<li>Aims to improve child nutrition, increase school attendance, and reduce dropout rates.</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; font-weight:600; color:#2c3e50;">POSHAN Abhiyaan</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;">
+<ul style="margin:0; padding-left:18px;">
+<li><b>Goals:</b> Reduce stunting, wasting, underweight, and anemia in children and women. NFHS-5 data shows modest improvements in all indicators. Promotes breastfeeding, dietary diversity, and hygiene during the critical first 1,000 days.</li>
+<li><b>Technology Use:</b> Real-time tracking via the ICDS-CAS app enables data-driven planning.</li>
+<li><b>Community Engagement:</b> Jan Andolan campaigns have reached over 30 crore people to spread nutrition awareness.</li>
+<li><b>Convergence:</b> Integrates efforts across 18 ministries, with localized action plans.</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+
+<h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">3.3. Progress in Poverty Reduction</h3>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">The government's poverty alleviation programs have made significant strides in reducing poverty across India, with substantial improvements in key poverty indicators.</p>
+
+<p style="margin:14px 0 4px 0;"><b>Reduction in Poverty Rates</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>According to NITI Aayog's Multidimensional Poverty Index (MPI) report, 13.5 crore people were lifted out of poverty between 2015–16 and 2019–21.</li>
+<li>The national poverty rate declined from 24.85% to 14.96%, showing a marked improvement in the socio-economic conditions of millions. The decline in poverty has been more pronounced in rural areas, which have traditionally had higher poverty rates.</li>
+</ul>
+
+<p style="margin:14px 0 4px 0;"><b>Government Commitment to Poverty Reduction</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>These improvements reflect the government's commitment to addressing multidimensional poverty, which includes not just income but also access to healthcare, education, and basic services like water and sanitation.</li>
+<li>However, challenges remain in fully eradicating hunger and malnutrition, particularly in regions with historical and social inequalities.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[poverty]] (data folder) for these figures.</p>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Decline in Poverty, Rise in Vulnerability</b>
+<p style="margin:8px 0 0 0; font-style:italic; color:#7a6a55;">Progress on paper, pressure on the ground.</p>
+
+<p style="margin:14px 0 4px 0;"><b>Statistical Gains (2011–2022)</b></p>
+<table style="width:100%; border-collapse:collapse; background-color:#fffaf2; border-radius:4px; overflow:hidden;">
+<tr style="background-color:#2c7a6b; color:#ffffff;">
+<th style="padding:6px 10px; text-align:left;">Indicator</th>
+<th style="padding:6px 10px; text-align:left;">2011</th>
+<th style="padding:6px 10px; text-align:left;">2022</th>
+</tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">Poverty rate (World Bank)</td><td style="padding:6px 10px;">27%</td><td style="padding:6px 10px;">5.3%</td></tr>
+<tr style="background-color:#f0f5f4;"><td style="padding:6px 10px;">MPI (NITI Aayog/UNDP)</td><td style="padding:6px 10px;">29%</td><td style="padding:6px 10px;">11.3%</td></tr>
+<tr style="background-color:#fffaf2;"><td style="padding:6px 10px;">Gini Index (World Bank)</td><td style="padding:6px 10px;">28.8</td><td style="padding:6px 10px;">25.5</td></tr>
+</table>
+
+<p style="margin:14px 0 4px 0;"><b>Lived Reality (2022–2025)</b></p>
+<ul style="margin:2px 0 0 0; padding-left:20px;">
+<li>₹62/day = World Bank poverty line (PPP).</li>
+<li>83% of Indians live below ₹171/day (based on the $8.40 PPP line).</li>
+<li>The top 1% owns 40.1% of wealth (World Inequality Database).</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[poverty]] (data folder) for these figures.</p>
+</div>
+
+<h2 style="background-color:#2c3e50; color:#ffffff; padding:10px 16px; border-radius:6px; margin-top:20px;">4. Multidimensional Poverty Index (MPI): Improvements and Challenges</h2>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<p style="margin:0;">India has made significant progress in reducing multidimensional poverty, as highlighted by the latest United Nations and Human Development Reports. Unlike income-based poverty measures, the MPI captures simultaneous deprivations across health, education, and living standards using indicators like nutrition, child mortality, years of schooling, sanitation, and access to electricity.</p>
+</div>
+
+<p style="margin:20px 0 8px 0;"><b>Key Data on MPI</b></p>
+<div style="border:1px solid #e2ddd0; border-radius:10px; overflow:hidden; margin-top:8px; box-shadow:0 1px 3px rgba(0,0,0,0.06);">
+<table style="width:100%; border-collapse:collapse;">
+<tr style="background-color:#2c3e50; color:#ffffff;">
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px; width:50%;">2025 Human Development Report</th>
+<th style="padding:10px 14px; text-align:left; font-size:0.9em; letter-spacing:0.3px; width:50%;">India's National MPI (based on NFHS-5 data, 2019–21)</th>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">Multidimensionally Poor:</b> 16.4% of Indians.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">Poverty Rate:</b> Fell from 24.85% (2015–16) to 14.96% (2019–21).</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">In Severe Poverty:</b> 4.2%.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">People Escaped Poverty:</b> About 415 million people in 15 years.</td>
+</tr>
+<tr style="background-color:#ffffff;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">Vulnerable to Falling into Poverty:</b> 18.7%.</td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">Urban Poverty Rate:</b> 5.5%.</td>
+</tr>
+<tr style="background-color:#fdf8f1;">
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"></td>
+<td style="padding:10px 14px; vertical-align:top; border-top:1px solid #eee2cf; color:#555555;"><b style="color:#2c3e50;">Fastest-Reducing States:</b> Rural areas and poorer states like Bihar, Jharkhand, and Uttar Pradesh saw the fastest reductions, but still have high absolute numbers of poor.</td>
+</tr>
+</table>
+</div>
+
+<div style="background-color:#eef4f3; border:1px solid #bcd4cf; border-left:5px solid #2c7a6b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Why the Decline Happened</b>
+<p style="margin:8px 0 0 0;">Success in the stark decline is attributed to India's multisectoral interventions in areas like:</p>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>Sanitation (Swachh Bharat Mission).</li>
+<li>Electricity (Saubhagya Scheme).</li>
+<li>Housing (PM Awas Yojana).</li>
+<li>Nutrition and Health (POSHAN Abhiyaan, Ayushman Bharat).</li>
+<li>Education (Samagra Shiksha).</li>
+</ul>
+</div>
+
+<div style="background-color:#f5e9dc; border:1px solid #e0c6a3; border-left:5px solid #c0392b; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Challenges Ahead</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li>Child poverty remains high despite improvements.</li>
+<li>Regional disparities persist between states and within districts.</li>
+<li>Nearly one in five Indians remains vulnerable to multidimensional poverty.</li>
+<li>MPI lacks measurement of intra-household inequality and faces data collection issues.</li>
+</ul>
+</div>
+
+<div style="background-color:#eaf7ec; border:1px solid #a8d5b0; border-left:5px solid #388e3c; border-radius:6px; padding:12px 16px; margin-top:16px; width:100%; box-sizing:border-box;">
+<b>Way Forward: Data-Centric Strategies to Reduce Multidimensional Poverty</b>
+<ul style="margin:6px 0 0 0; padding-left:20px;">
+<li><b>Expand Quality Education Access:</b> Address 11.9% MPI deprivation from schooling by improving rural digital access and implementing NEP 2020 effectively.</li>
+<li><b>Diversify Rural Livelihoods:</b> Reduce 45% agri-dependence by promoting skilling, MSMEs, and allied sectors in MPI-intense districts.</li>
+<li><b>Strengthen Social Safety Nets:</b> Streamline PMGKAY and DBT schemes to ensure food and health coverage for over 80 crore beneficiaries.</li>
+<li><b>Combat Malnutrition:</b> Target 35.5% stunting and 57% anemia rates via POSHAN Abhiyaan, Anaemia Mukt Bharat, and fortified PDS.</li>
+<li><b>Adopt Region-Specific Targeting:</b> Use MPI dashboards to prioritize high-poverty states like Bihar, Jharkhand, and UP with tailored plans.</li>
+<li><b>Leverage Public-Private Partnerships:</b> Redirect CSR funds toward education, nutrition, and skilling in MPI hotspots.</li>
+</ul>
+<p style="margin:12px 0 0 0; font-size:0.78em; color:#7a6a55; font-style:italic;">See [[poverty]] (data folder) for these figures.</p>
 </div>

@@ -104,3 +104,18 @@
 <li>The government has since clarified on multiple occasions that sub-classification shall not be implemented for SCs.</li>
 </ul>
 </div>
+
+<div style="background-color:#dfe9e5; border-left:4px solid #2c7a6b; padding:10px 14px; margin-bottom:8px; border-radius:4px; width:100%; box-sizing:border-box;">
+<b>Anjum Kadari &amp; Another vs. Union of India (2024)</b><br>
+<span style="display:inline-block; background-color:#2c7a6b; color:#ffffff; font-size:0.72em; padding:2px 8px; border-radius:10px; margin-top:6px; margin-right:4px;">Education</span>
+<span style="display:inline-block; background-color:#8e44ad; color:#ffffff; font-size:0.72em; padding:2px 8px; border-radius:10px; margin-top:6px; margin-right:4px;">Minorities</span>
+<span style="display:inline-block; background-color:#4a6b7c; color:#ffffff; font-size:0.72em; padding:2px 8px; border-radius:10px; margin-top:6px;">GS2</span>
+<ul style="margin:8px 0 0 0; padding-left:20px;">
+<li>Supreme Court reversed the Allahabad High Court's judgment that struck down the UP Madarsa Act.</li>
+<li>Held that a law can be struck down only for violating Fundamental Rights, not the basic structure.</li>
+<li>Confirmed the Act is within state legislative competence under Entry 25, Concurrent List (Education).</li>
+<li>Stressed that the Act aims to ensure educational standards and socio-economic inclusion for madarsa students.</li>
+<li>Struck down provisions awarding degrees like Fazil and Kamil for violating Section 22 of the UGC Act.</li>
+<li>Reaffirmed minority educational rights under Article 30(1) and the role of the NCMEI in safeguarding them.</li>
+</ul>
+</div>
