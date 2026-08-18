@@ -1,4 +1,10 @@
 - [Quotes workflow](feedback_quotes_workflow.md) — ask before adding a spotted quote to drafts/essay/quotes.md
-- [Social Justice draft state](project_social_justice_draft_state.md) — huge note mid-build in drafts/, unpromoted, has unresolved data conflicts
+- [Social Justice / vault project state](project_social_justice_draft_state.md) — current build state as of 2026-08-18: Units 1–2 done, Unit 3 in progress, new policy/ and tasks/ structure, on GitHub
 - [Pasted content handling](feedback_pasted_content_handling.md) — untangle interleaved PDF text, silently drop "Student Notes:" artifacts
 - [Diagram tooling limits](feedback_diagram_tooling.md) — Mermaid can't do circular layouts; prefer plain lists for cyclic diagrams
+- [Data doc duplication](feedback_data_doc_duplication.md) — any stat added to a note must also land in the matching data/ doc, and stay inline (not link-only)
+- [Card row style](feedback_card_row_style.md) — named visual pattern for extracted infographics: fixed-height header + body cards in a row
+- [UPSC source restriction](feedback_upsc_source_restriction.md) — research only via PIB/NITI Aayog/VisionIAS/DrishtiIAS/Vajiram&Ravi, nothing else
+- [Draft promotion batching](feedback_draft_promotion_batching.md) — one-file-at-a-time by default, batch-promote on explicit blanket approval
+- [GitHub repo](reference_github_repo.md) — public repo at github.com/amank211/upsc_second_brain; gh.exe not on PATH
+- [Policy notes need vehicle schemes](feedback_policy_vehicle_schemes.md) — always name the implementing scheme(s) for each policy version, not just its provisions
