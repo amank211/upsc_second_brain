@@ -8,3 +8,5 @@
 - [Draft promotion batching](feedback_draft_promotion_batching.md) — one-file-at-a-time by default, batch-promote on explicit blanket approval
 - [GitHub repo](reference_github_repo.md) — public repo at github.com/amank211/upsc_second_brain; gh.exe not on PATH
 - [Policy notes need vehicle schemes](feedback_policy_vehicle_schemes.md) — always name the implementing scheme(s) for each policy version, not just its provisions
+- [Pax Indica state](project_pax_indica_draft_state.md) — all 11 chapters complete, promoted to notes/GS2/ 2026-08-25, image-archiving convention for future book projects
+- [Intl Groups/Orgs state](project_intl_groups_orgs_draft_state.md) — two reference docs, promoted to notes/GS2/ 2026-08-25, will go stale fast (leadership/membership changes) — refresh via same restricted sources when asked

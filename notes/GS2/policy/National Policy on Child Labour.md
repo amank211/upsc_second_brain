@@ -134,6 +134,7 @@ Overview of India's National Policy on Child Labour (1987) — its multi-pronged
 </td>
 </tr>
 </table>
+<p style="margin:8px 0 0 0; font-size:0.85em; color:#666666;"><b>Main workers</b> is a Census classification — those who worked <b>6 months (183 days) or more</b> in the reference year, as opposed to "marginal workers" (under 6 months). The 43.53 lakh (2011) main-worker figure is a <i>subset</i> of the 1.01 crore total working-children figure above, which combines main + marginal workers.</p>
 <p style="margin:8px 0 0 0; font-size:0.85em; color:#666666;">Source: Drishti IAS — "Child Labour In India" / "Rise in Child Labour"; PIB.</p>
 
 <h3 style="background-color:#4a6b7c; color:#ffffff; padding:8px 16px; border-radius:6px; margin-top:24px;">2.3. Key Challenges</h3>
